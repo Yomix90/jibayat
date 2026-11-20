@@ -1,0 +1,124 @@
+{
+ "today": "2026-06-15",
+ "dossiers": {
+  "1": {
+   "nb_jours": 1,
+   "montant_du": 175.0,
+   "plus265": false,
+   "plus365": false
+  },
+  "2": {
+   "nb_jours": 46,
+   "montant_du": 690.0,
+   "plus265": false,
+   "plus365": false
+  },
+  "3": {
+   "nb_jours": 266,
+   "montant_du": 13450.0,
+   "plus265": true,
+   "plus365": false
+  },
+  "4": {
+   "nb_jours": 380,
+   "montant_du": 9599.99,
+   "plus265": true,
+   "plus365": true
+  },
+  "5": {
+   "nb_jours": 157,
+   "montant_du": 4075.0,
+   "plus265": false,
+   "plus365": false
+  },
+  "6": {
+   "nb_jours": 134,
+   "montant_du": 2010.0,
+   "plus265": false,
+   "plus365": false
+  },
+  "7": {
+   "nb_jours": 15,
+   "montant_du": 0.0,
+   "plus265": false,
+   "plus365": false
+  }
+ },
+ "tarifs": {
+  "Voiture particulière / jour": 25.0,
+  "Moto / Scooter / jour": 15.0,
+  "Camion / jour": 50.0,
+  "Inconnu": 0.0
+ },
+ "scenarios": [
+  {
+   "input": {
+    "id": 3,
+    "bv": "BV-300",
+    "nom": "Haddad",
+    "cin": "K1"
+   },
+   "declaration": {
+    "annee": 2026,
+    "base_calcul": 13450.0,
+    "montant_principal": 13450.0,
+    "montant_total": 13450.0,
+    "statut": "emis",
+    "notes": "Fourrière 3 — 266 jours"
+   },
+   "bulletin": {
+    "numero_bulletin": "BV-300",
+    "montant": 13450.0,
+    "statut": "en_attente"
+   },
+   "dossier": {
+    "nom_proprietaire": "Haddad",
+    "cin_proprietaire": "K1",
+    "numero_bulletin": "BV-300"
+   }
+  },
+  {
+   "input": {
+    "id": 1,
+    "bv": "BV-100",
+    "nom": "Bennani",
+    "cin": ""
+   },
+   "declaration": {
+    "annee": 2026,
+    "base_calcul": 175.0,
+    "montant_principal": 175.0,
+    "montant_total": 175.0,
+    "statut": "emis",
+    "notes": "Fourrière 1 — 1 jours"
+   },
+   "bulletin": {
+    "numero_bulletin": "BV-100",
+    "montant": 175.0,
+    "statut": "en_attente"
+   },
+   "dossier": {
+    "nom_proprietaire": "Bennani",
+    "cin_proprietaire": "",
+    "numero_bulletin": "BV-100"
+   }
+  }
+ ],
+ "stats": {
+  "total": 7,
+  "actifs": 6,
+  "en_fourriere": 5,
+  "attente_sortie": 1,
+  "sortie": 1,
+  "plus265": 2,
+  "plus365": 1,
+  "total_du": 27989.99
+ },
+ "nb_jours": {
+  "2026-06-15": 1,
+  "2026-06-14": 2,
+  "2025-06-15": 366,
+  "2026-07-01": 1,
+  "": 0
+ }
+}

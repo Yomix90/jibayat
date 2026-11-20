@@ -1,0 +1,143 @@
+/* Polices servies en local (aucune dépendance Internet sur le serveur de la commune) */
+@import '@fontsource/inter/latin-400.css';
+@import '@fontsource/inter/latin-500.css';
+@import '@fontsource/inter/latin-700.css';
+@import '@fontsource/inter/latin-ext-400.css';
+@import '@fontsource/inter/latin-ext-700.css';
+@import '@fontsource/noto-kufi-arabic/arabic-400.css';
+@import '@fontsource/noto-kufi-arabic/arabic-500.css';
+@import '@fontsource/noto-kufi-arabic/arabic-700.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Palette « plateforme administrative marocaine » (CLAUDE.md §4.1) ── */
+:root {
+    --bg: #F2F3F5;
+    --surface: #FFFFFF;
+    --border: #E6E8EC;
+    --text: #1F2933;
+    --text-muted: #6B7280;
+    --navy: #1E2A3A;
+    --gold: #C9A13B;
+    --orange: #C8601E;
+    --success: #16A34A;
+
+    /* Mouvement : courbe « ressort amorti » (sans rebond) et durées courtes — retour immédiat au toucher */
+    --ease-out: cubic-bezier(.32, .72, 0, 1);
+    --press: 100ms;
+    --enter: 280ms;
+
+    /* Matériaux translucides (barre du haut, menus, messages) */
+    --material-light: rgba(255, 255, 255, .72);
+    --material-dark: rgba(30, 42, 58, .86);
+    --shadow-sm: 0 1px 2px rgba(31, 41, 51, .04), 0 1px 1px rgba(31, 41, 51, .02);
+    --shadow-md: 0 4px 12px rgba(31, 41, 51, .06), 0 1px 3px rgba(31, 41, 51, .05);
+    --shadow-lg: 0 18px 48px rgba(31, 41, 51, .16), 0 4px 12px rgba(31, 41, 51, .08);
+}
+
+@layer base {
+    /* touch-action : supprime le délai de 300 ms au toucher sur téléphone */
+    html { -webkit-tap-highlight-color: transparent; touch-action: manipulation; text-size-adjust: 100%; }
+    body { background: var(--bg); color: var(--text); line-height: 1.5; font-feature-settings: 'cv11', 'ss01'; }
+    [dir="rtl"] body, [lang="ar"], .font-ar { font-family: 'Noto Kufi Arabic', 'Inter', sans-serif; letter-spacing: 0 !important; }
+    :focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; border-radius: .5rem; }
+
+    /* Typographie : l'interlettrage et l'interligne dépendent de la taille (grand ➜ serré, petit ➜ aéré) */
+    h1 { letter-spacing: -.022em; line-height: 1.15; }
+    h2 { letter-spacing: -.012em; line-height: 1.25; }
+    .text-xs, .text-\[11px\], .text-\[10\.5px\] { letter-spacing: .01em; }
+    .text-2xl, .text-3xl { letter-spacing: -.02em; line-height: 1.15; }
+    .tabular-nums { font-variant-numeric: tabular-nums; letter-spacing: -.005em; }
+
+    ::selection { background: rgba(201, 161, 59, .28); }
+}
+
+@layer components {
+    /* Motif zellige en surimpression (6–12 %) */
+    .zellige { position: relative; isolation: isolate; overflow: hidden; }
+    .zellige::before {
+        content: ''; position: absolute; inset: 0; z-index: -1; pointer-events: none;
+        background-image: url('../svg/zellige.svg');
+        background-size: 96px 96px;
+        opacity: var(--zellige-opacity, .12);
+    }
+
+    .section-title {
+        @apply flex items-center gap-2 text-[13px] font-bold uppercase text-[color:var(--text)];
+        letter-spacing: .08em;
+    }
+
+    .tile {
+        @apply flex flex-col items-center gap-2 rounded-2xl border border-[color:var(--border)] bg-white px-2 py-3 text-center transition;
+        box-shadow: 0 1px 2px rgba(31, 41, 51, .04);
+    }
+    .tile:hover { transform: translateY(-1px); box-shadow: 0 6px 16px rgba(31, 41, 51, .08); }
+    .tile:active { transform: scale(.97); }
+
+    .icon-square {
+        @apply grid h-11 w-11 place-items-center rounded-xl text-white;
+        background: linear-gradient(135deg, var(--from), var(--to));
+    }
+
+    .space-card {
+        @apply relative flex h-[150px] w-[160px] shrink-0 snap-start flex-col justify-between rounded-[20px] p-3 text-white transition;
+        background: linear-gradient(150deg, var(--from), var(--to));
+        border: 2px solid transparent;
+    }
+    .space-card:hover { transform: translateY(-2px); }
+    .space-card[aria-current="true"] { border-color: var(--gold); box-shadow: 0 0 0 2px rgba(201, 161, 59, .25); }
+
+    .chip {
+        @apply flex shrink-0 items-center gap-2 rounded-full border border-[color:var(--border)] bg-white py-1.5 pe-3 ps-1.5 text-sm font-medium transition hover:border-[color:var(--gold)];
+    }
+
+    .round-btn { @apply grid h-10 w-10 place-items-center rounded-full; transition: transform var(--press) ease-out, background-color 150ms, filter 150ms; }
+
+    /* Retour au toucher : l'état « pressé » apparaît dès l'appui (pas au relâchement) */
+    .pressable { transition: transform var(--press) ease-out, background-color 150ms, border-color 150ms, box-shadow 150ms, filter 150ms; }
+    .pressable:active, .round-btn:active { transform: scale(.97); }
+    /* Lignes de liste cliquables : surlignage dès l'appui */
+    button.hover\:bg-bg, a.hover\:bg-bg { transition: background-color 120ms ease-out; }
+    button.hover\:bg-bg:active, a.hover\:bg-bg:active { background-color: #E7E9ED; }
+
+    /* Surfaces */
+    .surface { @apply rounded-2xl border border-line bg-white; box-shadow: var(--shadow-sm); }
+    .material { background: var(--material-light); -webkit-backdrop-filter: blur(20px) saturate(180%); backdrop-filter: blur(20px) saturate(180%); }
+    .material-dark { background: var(--material-dark); -webkit-backdrop-filter: blur(16px) saturate(160%); backdrop-filter: blur(16px) saturate(160%); }
+    /* Bord de défilement : ombre douce au lieu d'un trait d'1 px sous la barre collante */
+    .scroll-edge { box-shadow: 0 1px 0 rgba(31, 41, 51, .04), 0 8px 24px -12px rgba(31, 41, 51, .18); }
+
+    /* Entrées / sorties : opacité + échelle ensemble, même chemin à l'aller et au retour */
+    .enter { transition: opacity var(--enter) var(--ease-out), transform var(--enter) var(--ease-out); }
+    .enter-from { opacity: 0; transform: scale(.96) translateY(6px); }
+    .enter-to { opacity: 1; transform: none; }
+    .sheet-from { opacity: 0; transform: translateY(24px) scale(.98); }
+    @media (min-width: 640px) { .sheet-from { transform: scale(.96); } }
+
+    .no-scrollbar { scrollbar-width: none; }
+    .no-scrollbar::-webkit-scrollbar { display: none; }
+}
+
+/* Mouvements réduits : fondus enchaînés à la place des déplacements et des échelles */
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation: none !important; scroll-behavior: auto !important; }
+    * { transition-property: opacity, background-color, border-color, color !important; transition-duration: 150ms !important; }
+    .pressable:active, .round-btn:active, .tile:active, .tile:hover, .space-card:hover { transform: none !important; }
+    .enter-from, .sheet-from { transform: none !important; }
+}
+
+/* Transparence réduite : matériaux opaques */
+@media (prefers-reduced-transparency: reduce) {
+    .material { background: #fff; backdrop-filter: none; -webkit-backdrop-filter: none; }
+    .material-dark { background: var(--navy); backdrop-filter: none; -webkit-backdrop-filter: none; }
+}
+
+/* Contraste renforcé : bordures plus marquées, texte secondaire plus foncé */
+@media (prefers-contrast: more) {
+    :root { --border: #9CA3AF; }
+    .border-line { border-color: #9CA3AF !important; }
+    .text-muted { color: #374151 !important; }
+    .material { background: #fff; }
+}

@@ -1,0 +1,335 @@
+{
+ "carnets": [
+  {
+   "numero_carnet": "P-001-C01",
+   "num_premier": 1001,
+   "num_dernier": 1050,
+   "statut": "consomme",
+   "montant_verse": 1000.0,
+   "ecart": 0.0,
+   "bordereau_id": 1
+  },
+  {
+   "numero_carnet": "P-001-C02",
+   "num_premier": 1051,
+   "num_dernier": 1100,
+   "statut": "consomme",
+   "montant_verse": 987.5,
+   "ecart": -12.5,
+   "bordereau_id": 1
+  },
+  {
+   "numero_carnet": "P-001-C03",
+   "num_premier": 1101,
+   "num_dernier": 1150,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-001-C04",
+   "num_premier": 1151,
+   "num_dernier": 1200,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-001-C05",
+   "num_premier": 1201,
+   "num_dernier": 1250,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-001-C06",
+   "num_premier": 1251,
+   "num_dernier": 1300,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-001-C07",
+   "num_premier": 1301,
+   "num_dernier": 1350,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-001-C08",
+   "num_premier": 1351,
+   "num_dernier": 1400,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-001-C09",
+   "num_premier": 1401,
+   "num_dernier": 1450,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-001-C10",
+   "num_premier": 1451,
+   "num_dernier": 1500,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-002-C01",
+   "num_premier": 1,
+   "num_dernier": 100,
+   "statut": "consomme",
+   "montant_verse": 250.25,
+   "ecart": 0.25,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-002-C02",
+   "num_premier": 101,
+   "num_dernier": 200,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-002-C03",
+   "num_premier": 201,
+   "num_dernier": 300,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-002-C04",
+   "num_premier": 301,
+   "num_dernier": 400,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-002-C05",
+   "num_premier": 401,
+   "num_dernier": 500,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-002-C06",
+   "num_premier": 501,
+   "num_dernier": 600,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-002-C07",
+   "num_premier": 601,
+   "num_dernier": 700,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-002-C08",
+   "num_premier": 701,
+   "num_dernier": 800,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-002-C09",
+   "num_premier": 801,
+   "num_dernier": 900,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-002-C10",
+   "num_premier": 901,
+   "num_dernier": 1003,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-003-C01",
+   "num_premier": 1,
+   "num_dernier": 1,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-003-C02",
+   "num_premier": 2,
+   "num_dernier": 2,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-003-C03",
+   "num_premier": 3,
+   "num_dernier": 3,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-003-C04",
+   "num_premier": 4,
+   "num_dernier": 4,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-003-C05",
+   "num_premier": 5,
+   "num_dernier": 5,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-003-C06",
+   "num_premier": 6,
+   "num_dernier": 6,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-003-C07",
+   "num_premier": 7,
+   "num_dernier": 7,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-003-C08",
+   "num_premier": 8,
+   "num_dernier": 8,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-003-C09",
+   "num_premier": 9,
+   "num_dernier": 9,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  },
+  {
+   "numero_carnet": "P-003-C10",
+   "num_premier": 10,
+   "num_dernier": 7,
+   "statut": "en_stock",
+   "montant_verse": 0.0,
+   "ecart": 0.0,
+   "bordereau_id": null
+  }
+ ],
+ "paquets": [
+  {
+   "numero_paquet": "P-001",
+   "statut": "ouvert"
+  },
+  {
+   "numero_paquet": "P-002",
+   "statut": "ouvert"
+  },
+  {
+   "numero_paquet": "P-003",
+   "statut": "ouvert"
+  }
+ ],
+ "bordereaux": [
+  {
+   "numero": "BRD202600001",
+   "date_versement": "2026-06-10",
+   "montant_total": 1987.5
+  }
+ ],
+ "stats": {
+  "total_paquets": 3,
+  "total_carnets": 30,
+  "en_stock": 27,
+  "affectes": 0,
+  "consommes": 3,
+  "total_verse": 2237.75
+ },
+ "mois_verse": [
+  0,
+  0,
+  0,
+  0,
+  1987.5,
+  250.25,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "versements": [
+  [
+   "P-001-C01",
+   1000,
+   "2026-05-02"
+  ],
+  [
+   "P-001-C02",
+   987.5,
+   "2026-05-20"
+  ],
+  [
+   "P-002-C01",
+   250.25,
+   "2026-06-01"
+  ]
+ ],
+ "today": "2026-06-15"
+}

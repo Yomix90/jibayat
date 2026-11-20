@@ -1,0 +1,722 @@
+{
+ "today": "2026-06-15",
+ "etablissements": {
+  "1": {
+   "taux": 5.0,
+   "non_payes": [
+    {
+     "annee": 2025,
+     "trimestre": 1,
+     "echeance": "2025-04-30"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 2,
+     "echeance": "2025-07-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 3,
+     "echeance": "2025-10-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "echeance": "2026-01-31"
+    },
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "echeance": "2026-04-30"
+    }
+   ],
+   "periode": {
+    "texte_ar": "من الفصل 1 لسنة 2025 إلى الفصل 1 لسنة 2026",
+    "texte_fr": "Du Trimestre 1 2025 au Trimestre 1 2026",
+    "nb_periodes": 5,
+    "debut": "T1 2025",
+    "fin": "T1 2026"
+   }
+  },
+  "2": {
+   "taux": 7.5,
+   "non_payes": [
+    {
+     "annee": 2025,
+     "trimestre": 1,
+     "echeance": "2025-04-30"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 2,
+     "echeance": "2025-07-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 3,
+     "echeance": "2025-10-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "echeance": "2026-01-31"
+    },
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "echeance": "2026-04-30"
+    }
+   ],
+   "periode": {
+    "texte_ar": "من الفصل 1 لسنة 2025 إلى الفصل 1 لسنة 2026",
+    "texte_fr": "Du Trimestre 1 2025 au Trimestre 1 2026",
+    "nb_periodes": 5,
+    "debut": "T1 2025",
+    "fin": "T1 2026"
+   }
+  },
+  "3": {
+   "taux": 10.0,
+   "non_payes": [
+    {
+     "annee": 2025,
+     "trimestre": 3,
+     "echeance": "2025-10-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "echeance": "2026-01-31"
+    },
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "echeance": "2026-04-30"
+    }
+   ],
+   "periode": {
+    "texte_ar": "من الفصل 3 لسنة 2025 إلى الفصل 1 لسنة 2026",
+    "texte_fr": "Du Trimestre 3 2025 au Trimestre 1 2026",
+    "nb_periodes": 3,
+    "debut": "T3 2025",
+    "fin": "T1 2026"
+   }
+  },
+  "4": {
+   "taux": 12.0,
+   "non_payes": [
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "echeance": "2026-04-30"
+    }
+   ],
+   "periode": {
+    "texte_ar": "عن الفصل 1 لسنة 2026",
+    "texte_fr": "Trimestre 1 de l'année 2026",
+    "nb_periodes": 1,
+    "debut": "T1 2026",
+    "fin": "T1 2026"
+   }
+  },
+  "5": {
+   "taux": 5.0,
+   "non_payes": [
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "echeance": "2026-01-31"
+    },
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "echeance": "2026-04-30"
+    }
+   ],
+   "periode": {
+    "texte_ar": "من الفصل 4 لسنة 2025 إلى الفصل 1 لسنة 2026",
+    "texte_fr": "Du Trimestre 4 2025 au Trimestre 1 2026",
+    "nb_periodes": 2,
+    "debut": "T4 2025",
+    "fin": "T1 2026"
+   }
+  },
+  "6": {
+   "taux": 5.0,
+   "non_payes": [
+    {
+     "annee": 2022,
+     "trimestre": 1,
+     "echeance": "2022-04-30"
+    },
+    {
+     "annee": 2022,
+     "trimestre": 2,
+     "echeance": "2022-07-31"
+    },
+    {
+     "annee": 2022,
+     "trimestre": 3,
+     "echeance": "2022-10-31"
+    },
+    {
+     "annee": 2022,
+     "trimestre": 4,
+     "echeance": "2023-01-31"
+    },
+    {
+     "annee": 2023,
+     "trimestre": 1,
+     "echeance": "2023-04-30"
+    },
+    {
+     "annee": 2023,
+     "trimestre": 2,
+     "echeance": "2023-07-31"
+    },
+    {
+     "annee": 2023,
+     "trimestre": 3,
+     "echeance": "2023-10-31"
+    },
+    {
+     "annee": 2023,
+     "trimestre": 4,
+     "echeance": "2024-01-31"
+    },
+    {
+     "annee": 2024,
+     "trimestre": 1,
+     "echeance": "2024-04-30"
+    },
+    {
+     "annee": 2024,
+     "trimestre": 2,
+     "echeance": "2024-07-31"
+    },
+    {
+     "annee": 2024,
+     "trimestre": 3,
+     "echeance": "2024-10-31"
+    },
+    {
+     "annee": 2024,
+     "trimestre": 4,
+     "echeance": "2025-01-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 1,
+     "echeance": "2025-04-30"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 2,
+     "echeance": "2025-07-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 3,
+     "echeance": "2025-10-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "echeance": "2026-01-31"
+    },
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "echeance": "2026-04-30"
+    }
+   ],
+   "periode": {
+    "texte_ar": "من الفصل 1 لسنة 2022 إلى الفصل 1 لسنة 2026",
+    "texte_fr": "Du Trimestre 1 2022 au Trimestre 1 2026",
+    "nb_periodes": 17,
+    "debut": "T1 2022",
+    "fin": "T1 2026"
+   }
+  }
+ },
+ "liste": {
+  "1": {
+   "dernier_ca_declare": 24000.5,
+   "nb_non_declares": 5,
+   "nb_emises": 1,
+   "nb_non_paye": 6,
+   "annees_non_payees": [
+    2024,
+    2025,
+    2026
+   ],
+   "montant_estime_retard": 6000.15,
+   "montant_en_attente": 1200.03,
+   "total_impaye": 7200.18
+  },
+  "2": {
+   "dernier_ca_declare": 0.0,
+   "nb_non_declares": 5,
+   "nb_emises": 0,
+   "nb_non_paye": 5,
+   "annees_non_payees": [
+    2025,
+    2026
+   ],
+   "montant_estime_retard": 0.0,
+   "montant_en_attente": 0.0,
+   "total_impaye": 0.0
+  },
+  "3": {
+   "dernier_ca_declare": 150000.0,
+   "nb_non_declares": 3,
+   "nb_emises": 1,
+   "nb_non_paye": 4,
+   "annees_non_payees": [
+    2025,
+    2026
+   ],
+   "montant_estime_retard": 45000.0,
+   "montant_en_attente": 15000.0,
+   "total_impaye": 60000.0
+  },
+  "4": {
+   "dernier_ca_declare": 0.0,
+   "nb_non_declares": 1,
+   "nb_emises": 0,
+   "nb_non_paye": 1,
+   "annees_non_payees": [
+    2026
+   ],
+   "montant_estime_retard": 0.0,
+   "montant_en_attente": 0.0,
+   "total_impaye": 0.0
+  },
+  "5": {
+   "dernier_ca_declare": 0.0,
+   "nb_non_declares": 2,
+   "nb_emises": 0,
+   "nb_non_paye": 2,
+   "annees_non_payees": [
+    2025,
+    2026
+   ],
+   "montant_estime_retard": 0.0,
+   "montant_en_attente": 0.0,
+   "total_impaye": 0.0
+  },
+  "6": {
+   "dernier_ca_declare": 0.0,
+   "nb_non_declares": 17,
+   "nb_emises": 0,
+   "nb_non_paye": 17,
+   "annees_non_payees": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ],
+   "montant_estime_retard": 0.0,
+   "montant_en_attente": 0.0,
+   "total_impaye": 0.0
+  }
+ },
+ "scenarios": [
+  {
+   "input": {
+    "id": 1,
+    "date": "2026-06-15",
+    "bv": "BV-100",
+    "bases": {
+     "2024_4": 1000,
+     "2025_1": 12345.67,
+     "2025_2": 15000,
+     "2025_3": 0,
+     "2025_4": 20000.55,
+     "2026_1": 18000
+    }
+   },
+   "declarations": [
+    {
+     "annee": 2025,
+     "trimestre": 1,
+     "base_calcul": 12345.67,
+     "taux": 5.0,
+     "montant_principal": 617.28,
+     "penalite_retard": 61.73,
+     "majoration": 70.99,
+     "amende_non_declaration": 0.0,
+     "montant_total": 750.0,
+     "statut": "emis",
+     "date_declaration": "2026-06-15",
+     "date_echeance": "2025-04-30",
+     "bulletin": {
+      "numero_bulletin": "BV-100",
+      "montant": 750.0,
+      "statut": "en_attente",
+      "mode_paiement": "bulletin_manuel"
+     }
+    },
+    {
+     "annee": 2025,
+     "trimestre": 2,
+     "base_calcul": 15000.0,
+     "taux": 5.0,
+     "montant_principal": 750.0,
+     "penalite_retard": 75.0,
+     "majoration": 75.0,
+     "amende_non_declaration": 0.0,
+     "montant_total": 900.0,
+     "statut": "emis",
+     "date_declaration": "2026-06-15",
+     "date_echeance": "2025-07-31",
+     "bulletin": {
+      "numero_bulletin": "BV-100",
+      "montant": 900.0,
+      "statut": "en_attente",
+      "mode_paiement": "bulletin_manuel"
+     }
+    },
+    {
+     "annee": 2025,
+     "trimestre": 3,
+     "base_calcul": 0.0,
+     "taux": 5.0,
+     "montant_principal": 0.0,
+     "penalite_retard": 0.0,
+     "majoration": 0.0,
+     "amende_non_declaration": 0.0,
+     "montant_total": 0.0,
+     "statut": "sous_seuil",
+     "date_declaration": "2026-06-15",
+     "date_echeance": "2025-10-31",
+     "bulletin": null
+    },
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "base_calcul": 20000.55,
+     "taux": 5.0,
+     "montant_principal": 1000.03,
+     "penalite_retard": 100.01,
+     "majoration": 130.01,
+     "amende_non_declaration": 500.0,
+     "montant_total": 1730.05,
+     "statut": "emis",
+     "date_declaration": "2026-06-15",
+     "date_echeance": "2025-01-31",
+     "bulletin": {
+      "numero_bulletin": "BV-100",
+      "montant": 1730.05,
+      "statut": "en_attente",
+      "mode_paiement": "bulletin_manuel"
+     }
+    },
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "base_calcul": 18000.0,
+     "taux": 5.0,
+     "montant_principal": 900.0,
+     "penalite_retard": 90.0,
+     "majoration": 49.5,
+     "amende_non_declaration": 0.0,
+     "montant_total": 1039.5,
+     "statut": "emis",
+     "date_declaration": "2026-06-15",
+     "date_echeance": "2026-04-30",
+     "bulletin": {
+      "numero_bulletin": "BV-100",
+      "montant": 1039.5,
+      "statut": "en_attente",
+      "mode_paiement": "bulletin_manuel"
+     }
+    }
+   ]
+  },
+  {
+   "input": {
+    "id": 2,
+    "date": "2026-01-15",
+    "bv": "",
+    "bases": {
+     "2025_1": 8000,
+     "2025_4": 9100.25,
+     "2025_2": 1500
+    }
+   },
+   "declarations": [
+    {
+     "annee": 2025,
+     "trimestre": 1,
+     "base_calcul": 8000.0,
+     "taux": 7.5,
+     "montant_principal": 600.0,
+     "penalite_retard": 60.0,
+     "majoration": 54.0,
+     "amende_non_declaration": 0.0,
+     "montant_total": 714.0,
+     "statut": "emis",
+     "date_declaration": "2026-01-15",
+     "date_echeance": "2025-04-30",
+     "bulletin": null
+    },
+    {
+     "annee": 2025,
+     "trimestre": 2,
+     "base_calcul": 1500.0,
+     "taux": 7.5,
+     "montant_principal": 112.5,
+     "penalite_retard": 11.25,
+     "majoration": 8.44,
+     "amende_non_declaration": 0.0,
+     "montant_total": 132.19,
+     "statut": "sous_seuil",
+     "date_declaration": "2026-01-15",
+     "date_echeance": "2025-07-31",
+     "bulletin": null
+    },
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "base_calcul": 9100.25,
+     "taux": 7.5,
+     "montant_principal": 682.52,
+     "penalite_retard": 68.26,
+     "majoration": 71.67,
+     "amende_non_declaration": 0.0,
+     "montant_total": 822.45,
+     "statut": "emis",
+     "date_declaration": "2026-01-15",
+     "date_echeance": "2025-01-31",
+     "bulletin": null
+    }
+   ]
+  },
+  {
+   "input": {
+    "id": 3,
+    "date": "2026-04-01",
+    "bv": "BV-300",
+    "bases": {
+     "2025_3": 1999.99,
+     "2025_4": 250000,
+     "2026_1": 3333.33
+    }
+   },
+   "declarations": [
+    {
+     "annee": 2025,
+     "trimestre": 3,
+     "base_calcul": 1999.99,
+     "taux": 10.0,
+     "montant_principal": 200.0,
+     "penalite_retard": 20.0,
+     "majoration": 15.0,
+     "amende_non_declaration": 0.0,
+     "montant_total": 235.0,
+     "statut": "emis",
+     "date_declaration": "2026-04-01",
+     "date_echeance": "2025-10-31",
+     "bulletin": {
+      "numero_bulletin": "BV-300",
+      "montant": 235.0,
+      "statut": "en_attente",
+      "mode_paiement": "bulletin_manuel"
+     }
+    },
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "base_calcul": 250000.0,
+     "taux": 10.0,
+     "montant_principal": 25000.0,
+     "penalite_retard": 2500.0,
+     "majoration": 3000.0,
+     "amende_non_declaration": 2500.0,
+     "montant_total": 33000.0,
+     "statut": "emis",
+     "date_declaration": "2026-04-01",
+     "date_echeance": "2025-01-31",
+     "bulletin": {
+      "numero_bulletin": "BV-300",
+      "montant": 33000.0,
+      "statut": "en_attente",
+      "mode_paiement": "bulletin_manuel"
+     }
+    },
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "base_calcul": 3333.33,
+     "taux": 10.0,
+     "montant_principal": 333.33,
+     "penalite_retard": 0.0,
+     "majoration": 0.0,
+     "amende_non_declaration": 0.0,
+     "montant_total": 333.33,
+     "statut": "emis",
+     "date_declaration": "2026-04-01",
+     "date_echeance": "2026-04-30",
+     "bulletin": {
+      "numero_bulletin": "BV-300",
+      "montant": 333.33,
+      "statut": "en_attente",
+      "mode_paiement": "bulletin_manuel"
+     }
+    }
+   ]
+  },
+  {
+   "input": {
+    "id": 4,
+    "date": "2026-04-30",
+    "bv": "BV-400",
+    "bases": {
+     "2026_1": 7777.77
+    }
+   },
+   "declarations": [
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "base_calcul": 7777.77,
+     "taux": 12.0,
+     "montant_principal": 933.33,
+     "penalite_retard": 0.0,
+     "majoration": 0.0,
+     "amende_non_declaration": 0.0,
+     "montant_total": 933.33,
+     "statut": "emis",
+     "date_declaration": "2026-04-30",
+     "date_echeance": "2026-04-30",
+     "bulletin": {
+      "numero_bulletin": "BV-400",
+      "montant": 933.33,
+      "statut": "en_attente",
+      "mode_paiement": "bulletin_manuel"
+     }
+    }
+   ]
+  },
+  {
+   "input": {
+    "id": 4,
+    "date": "2026-05-01",
+    "bv": "BV-401",
+    "bases": {
+     "2026_1": 7777.77
+    }
+   },
+   "declarations": [
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "base_calcul": 7777.77,
+     "taux": 12.0,
+     "montant_principal": 933.33,
+     "penalite_retard": 93.34,
+     "majoration": 46.67,
+     "amende_non_declaration": 0.0,
+     "montant_total": 1073.34,
+     "statut": "emis",
+     "date_declaration": "2026-05-01",
+     "date_echeance": "2026-04-30",
+     "bulletin": {
+      "numero_bulletin": "BV-401",
+      "montant": 1073.34,
+      "statut": "en_attente",
+      "mode_paiement": "bulletin_manuel"
+     }
+    }
+   ]
+  },
+  {
+   "input": {
+    "id": 5,
+    "date": "2026-03-31",
+    "bv": "BV-500",
+    "bases": {
+     "2025_4": 30000
+    }
+   },
+   "declarations": [
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "base_calcul": 30000.0,
+     "taux": 5.0,
+     "montant_principal": 1500.0,
+     "penalite_retard": 150.0,
+     "majoration": 172.5,
+     "amende_non_declaration": 0.0,
+     "montant_total": 1822.5,
+     "statut": "emis",
+     "date_declaration": "2026-03-31",
+     "date_echeance": "2025-01-31",
+     "bulletin": {
+      "numero_bulletin": "BV-500",
+      "montant": 1822.5,
+      "statut": "en_attente",
+      "mode_paiement": "bulletin_manuel"
+     }
+    }
+   ]
+  },
+  {
+   "input": {
+    "id": 5,
+    "date": "2026-04-02",
+    "bv": "BV-501",
+    "bases": {
+     "2025_4": 30000
+    }
+   },
+   "declarations": [
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "base_calcul": 30000.0,
+     "taux": 5.0,
+     "montant_principal": 1500.0,
+     "penalite_retard": 150.0,
+     "majoration": 180.0,
+     "amende_non_declaration": 500.0,
+     "montant_total": 2330.0,
+     "statut": "emis",
+     "date_declaration": "2026-04-02",
+     "date_echeance": "2025-01-31",
+     "bulletin": {
+      "numero_bulletin": "BV-501",
+      "montant": 2330.0,
+      "statut": "en_attente",
+      "mode_paiement": "bulletin_manuel"
+     }
+    }
+   ]
+  }
+ ],
+ "periodes": [],
+ "echeances": {
+  "2024_1": "2024-04-30",
+  "2024_2": "2024-07-31",
+  "2024_3": "2024-10-31",
+  "2024_4": "2025-01-31",
+  "2025_1": "2025-04-30",
+  "2025_2": "2025-07-31",
+  "2025_3": "2025-10-31",
+  "2025_4": "2026-01-31",
+  "2026_1": "2026-04-30",
+  "2026_2": "2026-07-31",
+  "2026_3": "2026-10-31",
+  "2026_4": "2027-01-31"
+ },
+ "kpi": {
+  "total_impayes_global": 51000.15,
+  "total_attente_regie_global": 16200.03,
+  "nb_dossiers_impayes": 6,
+  "nb_dossiers_en_attente": 0,
+  "nb_dossiers_a_jour": 0
+ }
+}

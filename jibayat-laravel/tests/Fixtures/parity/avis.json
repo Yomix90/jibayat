@@ -1,0 +1,538 @@
+{
+ "initial": {
+  "total": 15711.5,
+  "annees": [
+   2026,
+   2025,
+   2024
+  ],
+  "modules": [
+   {
+    "module": "DEBITS_BOISSONS",
+    "total": 1950.0,
+    "nb_redevables": 1,
+    "nb_avis_emis": 0,
+    "rows": [
+     [
+      "D4",
+      null
+     ],
+     [
+      "D5",
+      null
+     ]
+    ]
+   },
+   {
+    "module": "STATIONNEMENT",
+    "total": 400.0,
+    "nb_redevables": 1,
+    "nb_avis_emis": 0,
+    "rows": [
+     [
+      "D6",
+      null
+     ]
+    ]
+   },
+   {
+    "module": "TNB",
+    "total": 13361.5,
+    "nb_redevables": 1,
+    "nb_avis_emis": 1,
+    "rows": [
+     [
+      "D2",
+      "AVS202600001"
+     ],
+     [
+      "D1",
+      null
+     ]
+    ]
+   }
+  ],
+  "stats": [
+   {
+    "module": "TNB",
+    "nb_impayes": 3,
+    "nb_redevables": 1,
+    "total_du": 15361.5,
+    "nb_emis": 2,
+    "total_recouvre": 2000.0
+   },
+   {
+    "module": "DEBITS_BOISSONS",
+    "nb_impayes": 2,
+    "nb_redevables": 1,
+    "total_du": 1950.0,
+    "nb_emis": 2,
+    "total_recouvre": 0
+   },
+   {
+    "module": "STATIONNEMENT",
+    "nb_impayes": 2,
+    "nb_redevables": 1,
+    "total_du": 800.0,
+    "nb_emis": 1,
+    "total_recouvre": 0
+   }
+  ],
+  "lettres": []
+ },
+ "filtre_tnb": {
+  "total": 13361.5,
+  "annees": [
+   2026,
+   2025,
+   2024
+  ],
+  "modules": [
+   {
+    "module": "TNB",
+    "total": 13361.5,
+    "nb_redevables": 1,
+    "nb_avis_emis": 1,
+    "rows": [
+     [
+      "D2",
+      "AVS202600001"
+     ],
+     [
+      "D1",
+      null
+     ]
+    ]
+   }
+  ],
+  "stats": [
+   {
+    "module": "TNB",
+    "nb_impayes": 3,
+    "nb_redevables": 1,
+    "total_du": 15361.5,
+    "nb_emis": 2,
+    "total_recouvre": 2000.0
+   },
+   {
+    "module": "DEBITS_BOISSONS",
+    "nb_impayes": 2,
+    "nb_redevables": 1,
+    "total_du": 1950.0,
+    "nb_emis": 2,
+    "total_recouvre": 0
+   },
+   {
+    "module": "STATIONNEMENT",
+    "nb_impayes": 2,
+    "nb_redevables": 1,
+    "total_du": 800.0,
+    "nb_emis": 1,
+    "total_recouvre": 0
+   }
+  ],
+  "lettres": []
+ },
+ "filtre_emis": {
+  "total": 3000.0,
+  "annees": [
+   2026,
+   2025,
+   2024
+  ],
+  "modules": [
+   {
+    "module": "TNB",
+    "total": 3000.0,
+    "nb_redevables": 1,
+    "nb_avis_emis": 1,
+    "rows": [
+     [
+      "D2",
+      "AVS202600001"
+     ]
+    ]
+   }
+  ],
+  "stats": [
+   {
+    "module": "TNB",
+    "nb_impayes": 3,
+    "nb_redevables": 1,
+    "total_du": 15361.5,
+    "nb_emis": 2,
+    "total_recouvre": 2000.0
+   },
+   {
+    "module": "DEBITS_BOISSONS",
+    "nb_impayes": 2,
+    "nb_redevables": 1,
+    "total_du": 1950.0,
+    "nb_emis": 2,
+    "total_recouvre": 0
+   },
+   {
+    "module": "STATIONNEMENT",
+    "nb_impayes": 2,
+    "nb_redevables": 1,
+    "total_du": 800.0,
+    "nb_emis": 1,
+    "total_recouvre": 0
+   }
+  ],
+  "lettres": []
+ },
+ "filtre_2026": {
+  "total": 4550.0,
+  "annees": [
+   2026,
+   2025,
+   2024
+  ],
+  "modules": [
+   {
+    "module": "DEBITS_BOISSONS",
+    "total": 1150.0,
+    "nb_redevables": 1,
+    "nb_avis_emis": 0,
+    "rows": [
+     [
+      "D4",
+      null
+     ]
+    ]
+   },
+   {
+    "module": "STATIONNEMENT",
+    "total": 400.0,
+    "nb_redevables": 1,
+    "nb_avis_emis": 0,
+    "rows": [
+     [
+      "D6",
+      null
+     ]
+    ]
+   },
+   {
+    "module": "TNB",
+    "total": 3000.0,
+    "nb_redevables": 1,
+    "nb_avis_emis": 1,
+    "rows": [
+     [
+      "D2",
+      "AVS202600001"
+     ]
+    ]
+   }
+  ],
+  "stats": [
+   {
+    "module": "TNB",
+    "nb_impayes": 3,
+    "nb_redevables": 1,
+    "total_du": 15361.5,
+    "nb_emis": 2,
+    "total_recouvre": 2000.0
+   },
+   {
+    "module": "DEBITS_BOISSONS",
+    "nb_impayes": 2,
+    "nb_redevables": 1,
+    "total_du": 1950.0,
+    "nb_emis": 2,
+    "total_recouvre": 0
+   },
+   {
+    "module": "STATIONNEMENT",
+    "nb_impayes": 2,
+    "nb_redevables": 1,
+    "total_du": 800.0,
+    "nb_emis": 1,
+    "total_recouvre": 0
+   }
+  ],
+  "lettres": []
+ },
+ "apres_generer_tnb": {
+  "total": 15711.5,
+  "annees": [
+   2026,
+   2025,
+   2024
+  ],
+  "modules": [
+   {
+    "module": "DEBITS_BOISSONS",
+    "total": 1950.0,
+    "nb_redevables": 1,
+    "nb_avis_emis": 0,
+    "rows": [
+     [
+      "D4",
+      null
+     ],
+     [
+      "D5",
+      null
+     ]
+    ]
+   },
+   {
+    "module": "STATIONNEMENT",
+    "total": 400.0,
+    "nb_redevables": 1,
+    "nb_avis_emis": 0,
+    "rows": [
+     [
+      "D6",
+      null
+     ]
+    ]
+   },
+   {
+    "module": "TNB",
+    "total": 13361.5,
+    "nb_redevables": 1,
+    "nb_avis_emis": 2,
+    "rows": [
+     [
+      "D2",
+      "AVS202600001"
+     ],
+     [
+      "D1",
+      "AVS202600002"
+     ]
+    ]
+   }
+  ],
+  "stats": [
+   {
+    "module": "TNB",
+    "nb_impayes": 3,
+    "nb_redevables": 1,
+    "total_du": 15361.5,
+    "nb_emis": 2,
+    "total_recouvre": 2000.0
+   },
+   {
+    "module": "DEBITS_BOISSONS",
+    "nb_impayes": 2,
+    "nb_redevables": 1,
+    "total_du": 1950.0,
+    "nb_emis": 2,
+    "total_recouvre": 0
+   },
+   {
+    "module": "STATIONNEMENT",
+    "nb_impayes": 2,
+    "nb_redevables": 1,
+    "total_du": 800.0,
+    "nb_emis": 1,
+    "total_recouvre": 0
+   }
+  ],
+  "lettres": []
+ },
+ "apres_generer_tout": {
+  "total": 15711.5,
+  "annees": [
+   2026,
+   2025,
+   2024
+  ],
+  "modules": [
+   {
+    "module": "DEBITS_BOISSONS",
+    "total": 1950.0,
+    "nb_redevables": 1,
+    "nb_avis_emis": 2,
+    "rows": [
+     [
+      "D4",
+      "AVS202600003"
+     ],
+     [
+      "D5",
+      "AVS202600004"
+     ]
+    ]
+   },
+   {
+    "module": "STATIONNEMENT",
+    "total": 400.0,
+    "nb_redevables": 1,
+    "nb_avis_emis": 1,
+    "rows": [
+     [
+      "D6",
+      "AVS202600005"
+     ]
+    ]
+   },
+   {
+    "module": "TNB",
+    "total": 13361.5,
+    "nb_redevables": 1,
+    "nb_avis_emis": 2,
+    "rows": [
+     [
+      "D2",
+      "AVS202600001"
+     ],
+     [
+      "D1",
+      "AVS202600002"
+     ]
+    ]
+   }
+  ],
+  "stats": [
+   {
+    "module": "TNB",
+    "nb_impayes": 3,
+    "nb_redevables": 1,
+    "total_du": 15361.5,
+    "nb_emis": 2,
+    "total_recouvre": 2000.0
+   },
+   {
+    "module": "DEBITS_BOISSONS",
+    "nb_impayes": 2,
+    "nb_redevables": 1,
+    "total_du": 1950.0,
+    "nb_emis": 2,
+    "total_recouvre": 0
+   },
+   {
+    "module": "STATIONNEMENT",
+    "nb_impayes": 2,
+    "nb_redevables": 1,
+    "total_du": 800.0,
+    "nb_emis": 1,
+    "total_recouvre": 0
+   }
+  ],
+  "lettres": []
+ },
+ "lettre": {
+  "numero": "LTR202600001",
+  "nb": 2,
+  "total": 13361.5,
+  "details": [
+   [
+    "D1",
+    "AVS202600002",
+    10361.5
+   ],
+   [
+    "D2",
+    "AVS202600001",
+    3000.0
+   ]
+  ]
+ },
+ "final": {
+  "total": 15711.5,
+  "annees": [
+   2026,
+   2025,
+   2024
+  ],
+  "modules": [
+   {
+    "module": "DEBITS_BOISSONS",
+    "total": 1950.0,
+    "nb_redevables": 1,
+    "nb_avis_emis": 2,
+    "rows": [
+     [
+      "D4",
+      "AVS202600003"
+     ],
+     [
+      "D5",
+      "AVS202600004"
+     ]
+    ]
+   },
+   {
+    "module": "STATIONNEMENT",
+    "total": 400.0,
+    "nb_redevables": 1,
+    "nb_avis_emis": 1,
+    "rows": [
+     [
+      "D6",
+      "AVS202600005"
+     ]
+    ]
+   },
+   {
+    "module": "TNB",
+    "total": 13361.5,
+    "nb_redevables": 1,
+    "nb_avis_emis": 2,
+    "rows": [
+     [
+      "D2",
+      "AVS202600001"
+     ],
+     [
+      "D1",
+      "AVS202600002"
+     ]
+    ]
+   }
+  ],
+  "stats": [
+   {
+    "module": "TNB",
+    "nb_impayes": 3,
+    "nb_redevables": 1,
+    "total_du": 15361.5,
+    "nb_emis": 2,
+    "total_recouvre": 2000.0
+   },
+   {
+    "module": "DEBITS_BOISSONS",
+    "nb_impayes": 2,
+    "nb_redevables": 1,
+    "total_du": 1950.0,
+    "nb_emis": 2,
+    "total_recouvre": 0
+   },
+   {
+    "module": "STATIONNEMENT",
+    "nb_impayes": 2,
+    "nb_redevables": 1,
+    "total_du": 800.0,
+    "nb_emis": 1,
+    "total_recouvre": 0
+   }
+  ],
+  "lettres": [
+   [
+    "LTR202600001",
+    "envoyee",
+    2,
+    13361.5
+   ],
+   [
+    "LTR202600002",
+    "annulee",
+    2,
+    1950.0
+   ]
+  ]
+ },
+ "avis_lettre": {
+  "AVS202600001": 1,
+  "AVS202600002": 1,
+  "AVS202600003": null,
+  "AVS202600004": null,
+  "AVS202600005": null
+ }
+}

@@ -1,0 +1,273 @@
+{
+ "tgr": {
+  "meta": {
+   "commune": "Commune Aït Amira",
+   "regie": "None",
+   "periode_debut": "2026-05-03",
+   "periode_fin": "2026-05-28",
+   "nb_pages": 0,
+   "total_principal": 11250.0,
+   "total_majoration": 500.5,
+   "total_penalites": 1001.0,
+   "total_astreintes": 1351.5,
+   "total_general": 14103.0
+  },
+  "operations": [
+   {
+    "num": 1,
+    "ref_paiement": 1001,
+    "date": "2026-05-03",
+    "partie_versante": "BENNANI ALI",
+    "mode_paiement": "Espèces",
+    "ref_creance": "55501",
+    "code_rubrique": "1140102026",
+    "libelle_rubrique": "Produit de location des locaux",
+    "principal": 840.0,
+    "majoration": 0.0,
+    "penalites": 0.0,
+    "astreintes": 0.0,
+    "total": 840.0
+   },
+   {
+    "num": 2,
+    "ref_paiement": 1002,
+    "date": "2026-05-05",
+    "partie_versante": "SARL ATLAS",
+    "mode_paiement": "Chèque",
+    "ref_creance": "55502",
+    "code_rubrique": "1140101011",
+    "libelle_rubrique": "Taxe sur les débits de boissons",
+    "principal": 1000.0,
+    "majoration": 50.0,
+    "penalites": 100.0,
+    "astreintes": 0.0,
+    "total": 1150.0
+   },
+   {
+    "num": 3,
+    "ref_paiement": 1003,
+    "date": "2026-05-20",
+    "partie_versante": "TAZI",
+    "mode_paiement": "Virement",
+    "ref_creance": "",
+    "code_rubrique": "1130101014",
+    "libelle_rubrique": "Taxe sur les terrains urbains non bâtis",
+    "principal": 9010.0,
+    "majoration": 450.5,
+    "penalites": 901.0,
+    "astreintes": 1351.5,
+    "total": 11713.0
+   },
+   {
+    "num": 4,
+    "ref_paiement": 1004,
+    "date": "2026-05-28",
+    "partie_versante": "OUALI",
+    "mode_paiement": "Espèces",
+    "ref_creance": "55504",
+    "code_rubrique": "1140203033",
+    "libelle_rubrique": "Droit de stationnement",
+    "principal": 400.0,
+    "majoration": 0.0,
+    "penalites": 0.0,
+    "astreintes": 0.0,
+    "total": 400.0
+   }
+  ]
+ },
+ "lettres": {
+  "0": "zéro Dirham",
+  "1": "un Dirham",
+  "21": "vingt et un Dirhams",
+  "71": "soixante et onze Dirhams",
+  "80": "quatre-vingts Dirhams",
+  "81": "quatre-vingt-un Dirhams",
+  "91": "quatre-vingt-onze Dirhams",
+  "100": "cent Dirhams",
+  "200": "deux cent Dirhams",
+  "1000": "mille Dirhams",
+  "1080": "mille quatre-vingts Dirhams",
+  "2000.5": "deux mille Dirhams et cinquante centimes",
+  "14103": "quatorze mille cent trois Dirhams",
+  "1000000": "un million Dirhams",
+  "2350177.75": "deux millions trois cent cinquante mille cent soixante-dix-sept Dirhams et soixante-quinze centimes",
+  "99.99": "quatre-vingt-dix-neuf Dirhams et quatre-vingt-dix-neuf centimes"
+ },
+ "gir": {
+  "1": {
+   "mois": 1,
+   "annee": 2026,
+   "total_general": 10510.5,
+   "lignes": [
+    {
+     "code_budgetaire": "1140102026",
+     "nature_recette": "Loyers",
+     "montant": 1200.0
+    },
+    {
+     "code_budgetaire": "1140101011",
+     "nature_recette": "Débits de boissons",
+     "montant": 300.5
+    },
+    {
+     "code_budgetaire": "1130101014",
+     "nature_recette": "TNB",
+     "montant": 9010.0
+    }
+   ]
+  },
+  "2": {
+   "mois": 2,
+   "annee": 2026,
+   "total_general": 970.0,
+   "lignes": [
+    {
+     "code_budgetaire": "1140102026",
+     "nature_recette": "Loyers",
+     "montant": 800.0
+    },
+    {
+     "code_budgetaire": "9999999",
+     "nature_recette": "Recette diverse",
+     "montant": 120.0
+    },
+    {
+     "code_budgetaire": "1190101011",
+     "nature_recette": "Recettes imprévues",
+     "montant": 50.0
+    }
+   ]
+  },
+  "3": {
+   "mois": 3,
+   "annee": 2026,
+   "total_general": 2000.0,
+   "lignes": [
+    {
+     "code_budgetaire": "1140102026",
+     "nature_recette": "Loyers",
+     "montant": 1500.25
+    },
+    {
+     "code_budgetaire": "1140203033",
+     "nature_recette": "Stationnement",
+     "montant": 400.0
+    }
+   ]
+  }
+ },
+ "emission": [
+  {
+   "numero_bordereau": 1,
+   "mois": 1,
+   "rubrique": "Loyer",
+   "code_budgetaire": "1140102026",
+   "intitule": "Produit de location des locaux à usage commercial ou professionnel",
+   "montant_present": 1200.0,
+   "report_anterieurs": 0.0,
+   "total": 1200.0,
+   "total_present_global": 10510.5,
+   "report_global": 0.0,
+   "premiere_partie_global": 0.0,
+   "deuxieme_partie_global": 10510.5
+  },
+  {
+   "numero_bordereau": 2,
+   "mois": 1,
+   "rubrique": "Boisson",
+   "code_budgetaire": "1140101011",
+   "intitule": "Taxe sur les débits de boissons",
+   "montant_present": 300.5,
+   "report_anterieurs": 0.0,
+   "total": 300.5,
+   "total_present_global": 10510.5,
+   "report_global": 0.0,
+   "premiere_partie_global": 0.0,
+   "deuxieme_partie_global": 10510.5
+  },
+  {
+   "numero_bordereau": 3,
+   "mois": 1,
+   "rubrique": "TNB",
+   "code_budgetaire": "1130101014",
+   "intitule": "Taxe sur les terrains urbains non bâtis",
+   "montant_present": 9010.0,
+   "report_anterieurs": 0.0,
+   "total": 9010.0,
+   "total_present_global": 10510.5,
+   "report_global": 0.0,
+   "premiere_partie_global": 0.0,
+   "deuxieme_partie_global": 10510.5
+  },
+  {
+   "numero_bordereau": 4,
+   "mois": 2,
+   "rubrique": "Loyer",
+   "code_budgetaire": "1140102026",
+   "intitule": "Produit de location des locaux à usage commercial ou professionnel",
+   "montant_present": 800.0,
+   "report_anterieurs": 1200.0,
+   "total": 2000.0,
+   "total_present_global": 970.0,
+   "report_global": 10510.5,
+   "premiere_partie_global": 10510.5,
+   "deuxieme_partie_global": 970.0
+  },
+  {
+   "numero_bordereau": 5,
+   "mois": 2,
+   "rubrique": "Recette diverse",
+   "code_budgetaire": "9999999",
+   "intitule": "Recette diverse",
+   "montant_present": 120.0,
+   "report_anterieurs": 0.0,
+   "total": 120.0,
+   "total_present_global": 970.0,
+   "report_global": 10510.5,
+   "premiere_partie_global": 10510.5,
+   "deuxieme_partie_global": 970.0
+  },
+  {
+   "numero_bordereau": 6,
+   "mois": 2,
+   "rubrique": "Recettes Imprévues",
+   "code_budgetaire": "1190101011",
+   "intitule": "Recettes imprévues",
+   "montant_present": 50.0,
+   "report_anterieurs": 0.0,
+   "total": 50.0,
+   "total_present_global": 970.0,
+   "report_global": 10510.5,
+   "premiere_partie_global": 10510.5,
+   "deuxieme_partie_global": 970.0
+  },
+  {
+   "numero_bordereau": 7,
+   "mois": 3,
+   "rubrique": "Loyer",
+   "code_budgetaire": "1140102026",
+   "intitule": "Produit de location des locaux à usage commercial ou professionnel",
+   "montant_present": 1500.25,
+   "report_anterieurs": 2000.0,
+   "total": 3500.25,
+   "total_present_global": 2000.0,
+   "report_global": 11480.5,
+   "premiere_partie_global": 11480.5,
+   "deuxieme_partie_global": 2000.0
+  },
+  {
+   "numero_bordereau": 8,
+   "mois": 3,
+   "rubrique": "Stationnement",
+   "code_budgetaire": "1140203033",
+   "intitule": "Droit de stationnement sur les véhicules affectés au transport public",
+   "montant_present": 400.0,
+   "report_anterieurs": 0.0,
+   "total": 400.0,
+   "total_present_global": 2000.0,
+   "report_global": 11480.5,
+   "premiere_partie_global": 11480.5,
+   "deuxieme_partie_global": 2000.0
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+# Dépôt Jibayat : projet Laravel, documentation et scripts de travail.
+# Exclus : base de données en clair (data/), projet Flask de référence, binaires PHP/MySQL locaux.
+/data/
+/jibayat_app-main/
+/static/
+/uploads/
+/tools/mysql/
+/tools/php/
+/tools/export_sqlite_plain.py
+*.db-journal
+.env
+.env.*
+!.env.example
+*.log
+.claude/settings.local.json

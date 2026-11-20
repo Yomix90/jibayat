@@ -1,0 +1,1 @@
+<select {{ $attributes->merge(['class' => 'block w-full rounded-xl border-line bg-white text-sm shadow-sm transition-[border-color,box-shadow] duration-150 focus:border-gold focus:ring-2 focus:ring-gold/30']) }}>{{ $slot }}</select>

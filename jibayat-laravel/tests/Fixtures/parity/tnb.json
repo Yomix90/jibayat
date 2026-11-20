@@ -1,0 +1,2064 @@
+{
+ "today": "2026-06-15",
+ "amende_pct": 15.0,
+ "terrains": {
+  "1": {
+   "annees_redevables": [
+    2021,
+    2022,
+    2024,
+    2025,
+    2026
+   ],
+   "exonerees": [],
+   "calculs": {
+    "2026-06-15": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 3829.25,
+      "amende": 1351.5,
+      "total": 15091.75
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 3288.65,
+      "amende": 1351.5,
+      "total": 14551.15
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 2748.05,
+      "amende": 1351.5,
+      "total": 14010.55
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 2207.45,
+      "amende": 1351.5,
+      "total": 13469.95
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 1666.85,
+      "amende": 1351.5,
+      "total": 12929.35
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 11487.75,
+      "penalite": 1148.78,
+      "majoration": 1435.97,
+      "amende": 1723.17,
+      "total": 15795.67
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 11487.75,
+      "penalite": 1148.78,
+      "majoration": 746.71,
+      "amende": 1723.17,
+      "total": 15106.41
+     }
+    },
+    "2026-02-27": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 3649.05,
+      "amende": 1351.5,
+      "total": 14911.55
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 3108.45,
+      "amende": 1351.5,
+      "total": 14370.95
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 2567.85,
+      "amende": 1351.5,
+      "total": 13830.35
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 2027.25,
+      "amende": 1351.5,
+      "total": 13289.75
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 1486.65,
+      "amende": 1351.5,
+      "total": 12749.15
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 11487.75,
+      "penalite": 1148.78,
+      "majoration": 1206.22,
+      "amende": 1723.17,
+      "total": 15565.92
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 11487.75,
+      "penalite": 0.0,
+      "majoration": 0.0,
+      "amende": 0.0,
+      "total": 11487.75
+     }
+    },
+    "2026-03-01": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 3694.1,
+      "amende": 1351.5,
+      "total": 14956.6
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 3153.5,
+      "amende": 1351.5,
+      "total": 14416.0
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 2612.9,
+      "amende": 1351.5,
+      "total": 13875.4
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 2072.3,
+      "amende": 1351.5,
+      "total": 13334.8
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 1531.7,
+      "amende": 1351.5,
+      "total": 12794.2
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 11487.75,
+      "penalite": 1148.78,
+      "majoration": 1263.66,
+      "amende": 1723.17,
+      "total": 15623.36
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 11487.75,
+      "penalite": 1148.78,
+      "majoration": 574.39,
+      "amende": 1723.17,
+      "total": 14934.09
+     }
+    },
+    "2027-01-31": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 4144.6,
+      "amende": 1351.5,
+      "total": 15407.1
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 3604.0,
+      "amende": 1351.5,
+      "total": 14866.5
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 3063.4,
+      "amende": 1351.5,
+      "total": 14325.9
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 2522.8,
+      "amende": 1351.5,
+      "total": 13785.3
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 9010.0,
+      "penalite": 901.0,
+      "majoration": 1982.2,
+      "amende": 1351.5,
+      "total": 13244.7
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 11487.75,
+      "penalite": 1148.78,
+      "majoration": 1838.04,
+      "amende": 1723.17,
+      "total": 16197.74
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 11487.75,
+      "penalite": 1148.78,
+      "majoration": 1148.78,
+      "amende": 1723.17,
+      "total": 15508.48
+     }
+    }
+   }
+  },
+  "2": {
+   "annees_redevables": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ],
+   "exonerees": [],
+   "calculs": {
+    "2026-06-15": {
+     "2020": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 2720.0,
+      "amende": 960.0,
+      "total": 10720.0
+     },
+     "2021": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 2336.0,
+      "amende": 960.0,
+      "total": 10336.0
+     },
+     "2022": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 1952.0,
+      "amende": 960.0,
+      "total": 9952.0
+     },
+     "2023": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 1568.0,
+      "amende": 960.0,
+      "total": 9568.0
+     },
+     "2024": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 1184.0,
+      "amende": 960.0,
+      "total": 9184.0
+     },
+     "2025": {
+      "taux": 12.25,
+      "principal": 9800.0,
+      "penalite": 980.0,
+      "majoration": 1225.0,
+      "amende": 1470.0,
+      "total": 13475.0
+     },
+     "2026": {
+      "taux": 12.25,
+      "principal": 9800.0,
+      "penalite": 980.0,
+      "majoration": 637.0,
+      "amende": 1470.0,
+      "total": 12887.0
+     }
+    },
+    "2026-02-27": {
+     "2020": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 2592.0,
+      "amende": 960.0,
+      "total": 10592.0
+     },
+     "2021": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 2208.0,
+      "amende": 960.0,
+      "total": 10208.0
+     },
+     "2022": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 1824.0,
+      "amende": 960.0,
+      "total": 9824.0
+     },
+     "2023": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 1440.0,
+      "amende": 960.0,
+      "total": 9440.0
+     },
+     "2024": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 1056.0,
+      "amende": 960.0,
+      "total": 9056.0
+     },
+     "2025": {
+      "taux": 12.25,
+      "principal": 9800.0,
+      "penalite": 980.0,
+      "majoration": 1029.0,
+      "amende": 1470.0,
+      "total": 13279.0
+     },
+     "2026": {
+      "taux": 12.25,
+      "principal": 9800.0,
+      "penalite": 0.0,
+      "majoration": 0.0,
+      "amende": 0.0,
+      "total": 9800.0
+     }
+    },
+    "2026-03-01": {
+     "2020": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 2624.0,
+      "amende": 960.0,
+      "total": 10624.0
+     },
+     "2021": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 2240.0,
+      "amende": 960.0,
+      "total": 10240.0
+     },
+     "2022": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 1856.0,
+      "amende": 960.0,
+      "total": 9856.0
+     },
+     "2023": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 1472.0,
+      "amende": 960.0,
+      "total": 9472.0
+     },
+     "2024": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 1088.0,
+      "amende": 960.0,
+      "total": 9088.0
+     },
+     "2025": {
+      "taux": 12.25,
+      "principal": 9800.0,
+      "penalite": 980.0,
+      "majoration": 1078.0,
+      "amende": 1470.0,
+      "total": 13328.0
+     },
+     "2026": {
+      "taux": 12.25,
+      "principal": 9800.0,
+      "penalite": 980.0,
+      "majoration": 490.0,
+      "amende": 1470.0,
+      "total": 12740.0
+     }
+    },
+    "2027-01-31": {
+     "2020": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 2944.0,
+      "amende": 960.0,
+      "total": 10944.0
+     },
+     "2021": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 2560.0,
+      "amende": 960.0,
+      "total": 10560.0
+     },
+     "2022": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 2176.0,
+      "amende": 960.0,
+      "total": 10176.0
+     },
+     "2023": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 1792.0,
+      "amende": 960.0,
+      "total": 9792.0
+     },
+     "2024": {
+      "taux": 8.0,
+      "principal": 6400.0,
+      "penalite": 640.0,
+      "majoration": 1408.0,
+      "amende": 960.0,
+      "total": 9408.0
+     },
+     "2025": {
+      "taux": 12.25,
+      "principal": 9800.0,
+      "penalite": 980.0,
+      "majoration": 1568.0,
+      "amende": 1470.0,
+      "total": 13818.0
+     },
+     "2026": {
+      "taux": 12.25,
+      "principal": 9800.0,
+      "penalite": 980.0,
+      "majoration": 980.0,
+      "amende": 1470.0,
+      "total": 13230.0
+     }
+    }
+   }
+  },
+  "3": {
+   "annees_redevables": [
+    2022,
+    2026
+   ],
+   "exonerees": [
+    2023,
+    2024,
+    2025
+   ],
+   "calculs": {
+    "2026-06-15": {
+     "2020": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 510.32,
+      "amende": 500,
+      "total": 2331.15
+     },
+     "2021": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 438.28,
+      "amende": 500,
+      "total": 2259.11
+     },
+     "2022": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 366.23,
+      "amende": 500,
+      "total": 2187.06
+     },
+     "2023": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 294.19,
+      "amende": 500,
+      "total": 2115.02
+     },
+     "2024": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 222.14,
+      "amende": 500,
+      "total": 2042.97
+     },
+     "2025": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 150.1,
+      "amende": 500,
+      "total": 1970.93
+     },
+     "2026": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 78.05,
+      "amende": 500,
+      "total": 1898.88
+     }
+    },
+    "2026-02-27": {
+     "2020": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 486.31,
+      "amende": 500,
+      "total": 2307.14
+     },
+     "2021": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 414.26,
+      "amende": 500,
+      "total": 2235.09
+     },
+     "2022": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 342.22,
+      "amende": 500,
+      "total": 2163.05
+     },
+     "2023": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 270.17,
+      "amende": 500,
+      "total": 2091.0
+     },
+     "2024": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 198.13,
+      "amende": 500,
+      "total": 2018.96
+     },
+     "2025": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 126.08,
+      "amende": 500,
+      "total": 1946.91
+     },
+     "2026": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 0.0,
+      "majoration": 0.0,
+      "amende": 0.0,
+      "total": 1200.75
+     }
+    },
+    "2026-03-01": {
+     "2020": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 492.31,
+      "amende": 500,
+      "total": 2313.14
+     },
+     "2021": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 420.27,
+      "amende": 500,
+      "total": 2241.1
+     },
+     "2022": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 348.22,
+      "amende": 500,
+      "total": 2169.05
+     },
+     "2023": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 276.18,
+      "amende": 500,
+      "total": 2097.01
+     },
+     "2024": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 204.13,
+      "amende": 500,
+      "total": 2024.96
+     },
+     "2025": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 132.09,
+      "amende": 500,
+      "total": 1952.92
+     },
+     "2026": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 60.04,
+      "amende": 500,
+      "total": 1880.87
+     }
+    },
+    "2027-01-31": {
+     "2020": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 552.35,
+      "amende": 500,
+      "total": 2373.18
+     },
+     "2021": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 480.3,
+      "amende": 500,
+      "total": 2301.13
+     },
+     "2022": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 408.26,
+      "amende": 500,
+      "total": 2229.09
+     },
+     "2023": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 336.21,
+      "amende": 500,
+      "total": 2157.04
+     },
+     "2024": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 264.17,
+      "amende": 500,
+      "total": 2085.0
+     },
+     "2025": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 192.12,
+      "amende": 500,
+      "total": 2012.95
+     },
+     "2026": {
+      "taux": 1.0,
+      "principal": 1200.75,
+      "penalite": 120.08,
+      "majoration": 120.08,
+      "amende": 500,
+      "total": 1940.91
+     }
+    }
+   }
+  },
+  "4": {
+   "annees_redevables": [
+    2025,
+    2026
+   ],
+   "exonerees": [],
+   "calculs": {
+    "2026-06-15": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 2550.0,
+      "amende": 900.0,
+      "total": 10050.0
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 2190.0,
+      "amende": 900.0,
+      "total": 9690.0
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 1830.0,
+      "amende": 900.0,
+      "total": 9330.0
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 1470.0,
+      "amende": 900.0,
+      "total": 8970.0
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 1110.0,
+      "amende": 900.0,
+      "total": 8610.0
+     },
+     "2025": {
+      "taux": 750.0,
+      "principal": 750.0,
+      "penalite": 75.0,
+      "majoration": 93.75,
+      "amende": 500,
+      "total": 1418.75
+     },
+     "2026": {
+      "taux": 750.0,
+      "principal": 750.0,
+      "penalite": 75.0,
+      "majoration": 48.75,
+      "amende": 500,
+      "total": 1373.75
+     }
+    },
+    "2026-02-27": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 2430.0,
+      "amende": 900.0,
+      "total": 9930.0
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 2070.0,
+      "amende": 900.0,
+      "total": 9570.0
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 1710.0,
+      "amende": 900.0,
+      "total": 9210.0
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 1350.0,
+      "amende": 900.0,
+      "total": 8850.0
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 990.0,
+      "amende": 900.0,
+      "total": 8490.0
+     },
+     "2025": {
+      "taux": 750.0,
+      "principal": 750.0,
+      "penalite": 75.0,
+      "majoration": 78.75,
+      "amende": 500,
+      "total": 1403.75
+     },
+     "2026": {
+      "taux": 750.0,
+      "principal": 750.0,
+      "penalite": 0.0,
+      "majoration": 0.0,
+      "amende": 0.0,
+      "total": 750.0
+     }
+    },
+    "2026-03-01": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 2460.0,
+      "amende": 900.0,
+      "total": 9960.0
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 2100.0,
+      "amende": 900.0,
+      "total": 9600.0
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 1740.0,
+      "amende": 900.0,
+      "total": 9240.0
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 1380.0,
+      "amende": 900.0,
+      "total": 8880.0
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 1020.0,
+      "amende": 900.0,
+      "total": 8520.0
+     },
+     "2025": {
+      "taux": 750.0,
+      "principal": 750.0,
+      "penalite": 75.0,
+      "majoration": 82.5,
+      "amende": 500,
+      "total": 1407.5
+     },
+     "2026": {
+      "taux": 750.0,
+      "principal": 750.0,
+      "penalite": 75.0,
+      "majoration": 37.5,
+      "amende": 500,
+      "total": 1362.5
+     }
+    },
+    "2027-01-31": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 2760.0,
+      "amende": 900.0,
+      "total": 10260.0
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 2400.0,
+      "amende": 900.0,
+      "total": 9900.0
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 2040.0,
+      "amende": 900.0,
+      "total": 9540.0
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 1680.0,
+      "amende": 900.0,
+      "total": 9180.0
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 6000.0,
+      "penalite": 600.0,
+      "majoration": 1320.0,
+      "amende": 900.0,
+      "total": 8820.0
+     },
+     "2025": {
+      "taux": 750.0,
+      "principal": 750.0,
+      "penalite": 75.0,
+      "majoration": 120.0,
+      "amende": 500,
+      "total": 1445.0
+     },
+     "2026": {
+      "taux": 750.0,
+      "principal": 750.0,
+      "penalite": 75.0,
+      "majoration": 75.0,
+      "amende": 500,
+      "total": 1400.0
+     }
+    }
+   }
+  },
+  "5": {
+   "annees_redevables": [
+    2024,
+    2025,
+    2026
+   ],
+   "exonerees": [],
+   "calculs": {
+    "2026-06-15": {
+     "2020": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 1133.33,
+      "amende": 500,
+      "total": 4566.64
+     },
+     "2021": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 973.33,
+      "amende": 500,
+      "total": 4406.64
+     },
+     "2022": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 813.33,
+      "amende": 500,
+      "total": 4246.64
+     },
+     "2023": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 653.33,
+      "amende": 500,
+      "total": 4086.64
+     },
+     "2024": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 493.33,
+      "amende": 500,
+      "total": 3926.64
+     },
+     "2025": {
+      "taux": 10.0,
+      "principal": 3333.3,
+      "penalite": 333.33,
+      "majoration": 416.67,
+      "amende": 500.0,
+      "total": 4583.3
+     },
+     "2026": {
+      "taux": 10.0,
+      "principal": 3333.3,
+      "penalite": 333.33,
+      "majoration": 216.67,
+      "amende": 500.0,
+      "total": 4383.3
+     }
+    },
+    "2026-02-27": {
+     "2020": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 1079.99,
+      "amende": 500,
+      "total": 4513.3
+     },
+     "2021": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 920.0,
+      "amende": 500,
+      "total": 4353.31
+     },
+     "2022": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 760.0,
+      "amende": 500,
+      "total": 4193.31
+     },
+     "2023": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 600.0,
+      "amende": 500,
+      "total": 4033.31
+     },
+     "2024": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 440.0,
+      "amende": 500,
+      "total": 3873.31
+     },
+     "2025": {
+      "taux": 10.0,
+      "principal": 3333.3,
+      "penalite": 333.33,
+      "majoration": 350.0,
+      "amende": 500.0,
+      "total": 4516.63
+     },
+     "2026": {
+      "taux": 10.0,
+      "principal": 3333.3,
+      "penalite": 0.0,
+      "majoration": 0.0,
+      "amende": 0.0,
+      "total": 3333.3
+     }
+    },
+    "2026-03-01": {
+     "2020": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 1093.33,
+      "amende": 500,
+      "total": 4526.64
+     },
+     "2021": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 933.33,
+      "amende": 500,
+      "total": 4366.64
+     },
+     "2022": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 773.33,
+      "amende": 500,
+      "total": 4206.64
+     },
+     "2023": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 613.33,
+      "amende": 500,
+      "total": 4046.64
+     },
+     "2024": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 453.33,
+      "amende": 500,
+      "total": 3886.64
+     },
+     "2025": {
+      "taux": 10.0,
+      "principal": 3333.3,
+      "penalite": 333.33,
+      "majoration": 366.67,
+      "amende": 500.0,
+      "total": 4533.3
+     },
+     "2026": {
+      "taux": 10.0,
+      "principal": 3333.3,
+      "penalite": 333.33,
+      "majoration": 166.67,
+      "amende": 500.0,
+      "total": 4333.3
+     }
+    },
+    "2027-01-31": {
+     "2020": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 1226.66,
+      "amende": 500,
+      "total": 4659.97
+     },
+     "2021": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 1066.66,
+      "amende": 500,
+      "total": 4499.97
+     },
+     "2022": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 906.66,
+      "amende": 500,
+      "total": 4339.97
+     },
+     "2023": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 746.66,
+      "amende": 500,
+      "total": 4179.97
+     },
+     "2024": {
+      "taux": 8.0,
+      "principal": 2666.64,
+      "penalite": 266.67,
+      "majoration": 586.67,
+      "amende": 500,
+      "total": 4019.98
+     },
+     "2025": {
+      "taux": 10.0,
+      "principal": 3333.3,
+      "penalite": 333.33,
+      "majoration": 533.33,
+      "amende": 500.0,
+      "total": 4699.96
+     },
+     "2026": {
+      "taux": 10.0,
+      "principal": 3333.3,
+      "penalite": 333.33,
+      "majoration": 333.33,
+      "amende": 500.0,
+      "total": 4499.96
+     }
+    }
+   }
+  },
+  "6": {
+   "annees_redevables": [
+    2026
+   ],
+   "exonerees": [],
+   "calculs": {
+    "2026-06-15": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 42.5,
+      "amende": 500,
+      "total": 652.5
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 36.5,
+      "amende": 500,
+      "total": 646.5
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 30.5,
+      "amende": 500,
+      "total": 640.5
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 24.5,
+      "amende": 500,
+      "total": 634.5
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 18.5,
+      "amende": 500,
+      "total": 628.5
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 127.5,
+      "penalite": 12.75,
+      "majoration": 15.94,
+      "amende": 500,
+      "total": 656.19
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 127.5,
+      "penalite": 12.75,
+      "majoration": 8.29,
+      "amende": 500,
+      "total": 648.54
+     }
+    },
+    "2026-02-27": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 40.5,
+      "amende": 500,
+      "total": 650.5
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 34.5,
+      "amende": 500,
+      "total": 644.5
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 28.5,
+      "amende": 500,
+      "total": 638.5
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 22.5,
+      "amende": 500,
+      "total": 632.5
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 16.5,
+      "amende": 500,
+      "total": 626.5
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 127.5,
+      "penalite": 12.75,
+      "majoration": 13.39,
+      "amende": 500,
+      "total": 653.64
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 127.5,
+      "penalite": 0.0,
+      "majoration": 0.0,
+      "amende": 0.0,
+      "total": 127.5
+     }
+    },
+    "2026-03-01": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 41.0,
+      "amende": 500,
+      "total": 651.0
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 35.0,
+      "amende": 500,
+      "total": 645.0
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 29.0,
+      "amende": 500,
+      "total": 639.0
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 23.0,
+      "amende": 500,
+      "total": 633.0
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 17.0,
+      "amende": 500,
+      "total": 627.0
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 127.5,
+      "penalite": 12.75,
+      "majoration": 14.03,
+      "amende": 500,
+      "total": 654.28
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 127.5,
+      "penalite": 12.75,
+      "majoration": 6.38,
+      "amende": 500,
+      "total": 646.63
+     }
+    },
+    "2027-01-31": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 46.0,
+      "amende": 500,
+      "total": 656.0
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 40.0,
+      "amende": 500,
+      "total": 650.0
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 34.0,
+      "amende": 500,
+      "total": 644.0
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 28.0,
+      "amende": 500,
+      "total": 638.0
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 100.0,
+      "penalite": 10.0,
+      "majoration": 22.0,
+      "amende": 500,
+      "total": 632.0
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 127.5,
+      "penalite": 12.75,
+      "majoration": 20.4,
+      "amende": 500,
+      "total": 660.65
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 127.5,
+      "penalite": 12.75,
+      "majoration": 12.75,
+      "amende": 500,
+      "total": 653.0
+     }
+    }
+   }
+  },
+  "7": {
+   "annees_redevables": [
+    2023,
+    2024,
+    2025,
+    2026
+   ],
+   "exonerees": [],
+   "calculs": {
+    "2026-06-15": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 1023.4,
+      "amende": 500,
+      "total": 4172.2
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 878.92,
+      "amende": 500,
+      "total": 4027.72
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 734.44,
+      "amende": 500,
+      "total": 3883.24
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 589.96,
+      "amende": 500,
+      "total": 3738.76
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 445.48,
+      "amende": 500,
+      "total": 3594.28
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 3070.2,
+      "penalite": 307.02,
+      "majoration": 383.78,
+      "amende": 500,
+      "total": 4261.0
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 3070.2,
+      "penalite": 307.02,
+      "majoration": 199.57,
+      "amende": 500,
+      "total": 4076.79
+     }
+    },
+    "2026-02-27": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 975.24,
+      "amende": 500,
+      "total": 4124.04
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 830.76,
+      "amende": 500,
+      "total": 3979.56
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 686.28,
+      "amende": 500,
+      "total": 3835.08
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 541.8,
+      "amende": 500,
+      "total": 3690.6
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 397.32,
+      "amende": 500,
+      "total": 3546.12
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 3070.2,
+      "penalite": 307.02,
+      "majoration": 322.38,
+      "amende": 500,
+      "total": 4199.6
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 3070.2,
+      "penalite": 0.0,
+      "majoration": 0.0,
+      "amende": 0.0,
+      "total": 3070.2
+     }
+    },
+    "2026-03-01": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 987.28,
+      "amende": 500,
+      "total": 4136.08
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 842.8,
+      "amende": 500,
+      "total": 3991.6
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 698.32,
+      "amende": 500,
+      "total": 3847.12
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 553.84,
+      "amende": 500,
+      "total": 3702.64
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 409.36,
+      "amende": 500,
+      "total": 3558.16
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 3070.2,
+      "penalite": 307.02,
+      "majoration": 337.73,
+      "amende": 500,
+      "total": 4214.95
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 3070.2,
+      "penalite": 307.02,
+      "majoration": 153.51,
+      "amende": 500,
+      "total": 4030.73
+     }
+    },
+    "2027-01-31": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 1107.68,
+      "amende": 500,
+      "total": 4256.48
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 963.2,
+      "amende": 500,
+      "total": 4112.0
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 818.72,
+      "amende": 500,
+      "total": 3967.52
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 674.24,
+      "amende": 500,
+      "total": 3823.04
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 2408.0,
+      "penalite": 240.8,
+      "majoration": 529.76,
+      "amende": 500,
+      "total": 3678.56
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 3070.2,
+      "penalite": 307.02,
+      "majoration": 491.24,
+      "amende": 500,
+      "total": 4368.46
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 3070.2,
+      "penalite": 307.02,
+      "majoration": 307.02,
+      "amende": 500,
+      "total": 4184.24
+     }
+    }
+   }
+  },
+  "8": {
+   "annees_redevables": [
+    2025,
+    2026
+   ],
+   "exonerees": [],
+   "calculs": {
+    "2026-06-15": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 8499.92,
+      "amende": 2999.97,
+      "total": 33499.67
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 7299.93,
+      "amende": 2999.97,
+      "total": 32299.68
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 6099.94,
+      "amende": 2999.97,
+      "total": 31099.69
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 4899.96,
+      "amende": 2999.97,
+      "total": 29899.71
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 3699.97,
+      "amende": 2999.97,
+      "total": 28699.72
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 25499.75,
+      "penalite": 2549.98,
+      "majoration": 3187.47,
+      "amende": 3824.97,
+      "total": 35062.17
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 25499.75,
+      "penalite": 2549.98,
+      "majoration": 1657.49,
+      "amende": 3824.97,
+      "total": 33532.19
+     }
+    },
+    "2026-02-27": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 8099.92,
+      "amende": 2999.97,
+      "total": 33099.67
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 6899.94,
+      "amende": 2999.97,
+      "total": 31899.69
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 5699.95,
+      "amende": 2999.97,
+      "total": 30699.7
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 4499.96,
+      "amende": 2999.97,
+      "total": 29499.71
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 3299.97,
+      "amende": 2999.97,
+      "total": 28299.72
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 25499.75,
+      "penalite": 2549.98,
+      "majoration": 2677.48,
+      "amende": 3824.97,
+      "total": 34552.18
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 25499.75,
+      "penalite": 0.0,
+      "majoration": 0.0,
+      "amende": 0.0,
+      "total": 25499.75
+     }
+    },
+    "2026-03-01": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 8199.92,
+      "amende": 2999.97,
+      "total": 33199.67
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 6999.93,
+      "amende": 2999.97,
+      "total": 31999.68
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 5799.95,
+      "amende": 2999.97,
+      "total": 30799.7
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 4599.96,
+      "amende": 2999.97,
+      "total": 29599.71
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 3399.97,
+      "amende": 2999.97,
+      "total": 28399.72
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 25499.75,
+      "penalite": 2549.98,
+      "majoration": 2804.98,
+      "amende": 3824.97,
+      "total": 34679.68
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 25499.75,
+      "penalite": 2549.98,
+      "majoration": 1274.99,
+      "amende": 3824.97,
+      "total": 33149.69
+     }
+    },
+    "2027-01-31": {
+     "2020": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 9199.91,
+      "amende": 2999.97,
+      "total": 34199.66
+     },
+     "2021": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 7999.92,
+      "amende": 2999.97,
+      "total": 32999.67
+     },
+     "2022": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 6799.94,
+      "amende": 2999.97,
+      "total": 31799.69
+     },
+     "2023": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 5599.95,
+      "amende": 2999.97,
+      "total": 30599.7
+     },
+     "2024": {
+      "taux": 20.0,
+      "principal": 19999.8,
+      "penalite": 1999.98,
+      "majoration": 4399.96,
+      "amende": 2999.97,
+      "total": 29399.71
+     },
+     "2025": {
+      "taux": 25.5,
+      "principal": 25499.75,
+      "penalite": 2549.98,
+      "majoration": 4079.96,
+      "amende": 3824.97,
+      "total": 35954.66
+     },
+     "2026": {
+      "taux": 25.5,
+      "principal": 25499.75,
+      "penalite": 2549.98,
+      "majoration": 2549.98,
+      "amende": 3824.97,
+      "total": 34424.68
+     }
+    }
+   }
+  }
+ },
+ "penalites": [
+  {
+   "montant": 9010,
+   "echeance": "2025-02-28",
+   "paiement": "2026-06-15",
+   "module": "TNB",
+   "penalite": 901.0,
+   "majoration": 1126.25
+  },
+  {
+   "montant": 1000,
+   "echeance": "2025-02-28",
+   "paiement": "2025-03-01",
+   "module": "TNB",
+   "penalite": 100.0,
+   "majoration": 50.0
+  },
+  {
+   "montant": 1000,
+   "echeance": "2025-02-28",
+   "paiement": "2025-02-28",
+   "module": "TNB",
+   "penalite": 0.0,
+   "majoration": 0.0
+  },
+  {
+   "montant": 1000,
+   "echeance": "2025-01-31",
+   "paiement": "2025-03-31",
+   "module": "TNB",
+   "penalite": 100.0,
+   "majoration": 55.0
+  },
+  {
+   "montant": 1000,
+   "echeance": "2025-01-31",
+   "paiement": "2025-02-28",
+   "module": "TNB",
+   "penalite": 100.0,
+   "majoration": 50.0
+  },
+  {
+   "montant": 2408,
+   "echeance": "2024-02-28",
+   "paiement": "2026-06-15",
+   "module": "TNB",
+   "penalite": 240.8,
+   "majoration": 445.48
+  },
+  {
+   "montant": 333.33,
+   "echeance": "2024-04-30",
+   "paiement": "2024-07-31",
+   "module": "TRANSPORT_VOYAGEURS",
+   "penalite": 33.34,
+   "majoration": 20.0
+  },
+  {
+   "montant": 777.77,
+   "echeance": "2023-10-31",
+   "paiement": "2026-01-15",
+   "module": "DEBITS_BOISSONS",
+   "penalite": 77.78,
+   "majoration": 140.0
+  },
+  {
+   "montant": 125.5,
+   "echeance": "2026-01-31",
+   "paiement": "2026-01-31",
+   "module": "TNB",
+   "penalite": 0.0,
+   "majoration": 0.0
+  },
+  {
+   "montant": 5000,
+   "echeance": "2020-02-28",
+   "paiement": "2026-06-15",
+   "module": "TNB",
+   "penalite": 500.0,
+   "majoration": 2125.0
+  }
+ ],
+ "majore": [
+  {
+   "valeur": 945.721,
+   "resultat": 945.73
+  },
+  {
+   "valeur": 100.0,
+   "resultat": 100.0
+  },
+  {
+   "valeur": 0.001,
+   "resultat": 0.01
+  },
+  {
+   "valeur": 1351.5,
+   "resultat": 1351.5
+  },
+  {
+   "valeur": 2.675,
+   "resultat": 2.68
+  },
+  {
+   "valeur": 11487.75,
+   "resultat": 11487.75
+  },
+  {
+   "valeur": 0,
+   "resultat": 0.0
+  },
+  {
+   "valeur": -3,
+   "resultat": 0.0
+  }
+ ]
+}

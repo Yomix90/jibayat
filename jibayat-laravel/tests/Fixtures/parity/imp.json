@@ -1,0 +1,189 @@
+{
+ "DEBITS_BOISSONS": {
+  "apercu": {
+   "total": 5,
+   "valides": 3,
+   "lignes": [
+    {
+     "ligne": 2,
+     "valide": true,
+     "erreurs": [],
+     "existant": true,
+     "tarif": "Café / Salon de thé",
+     "tarif_trouve": true
+    },
+    {
+     "ligne": 3,
+     "valide": true,
+     "erreurs": [],
+     "existant": false,
+     "tarif": "Restaurant",
+     "tarif_trouve": true
+    },
+    {
+     "ligne": 4,
+     "valide": true,
+     "erreurs": [],
+     "existant": false,
+     "tarif": "Bar / Brasserie",
+     "tarif_trouve": true
+    },
+    {
+     "ligne": 5,
+     "valide": false,
+     "erreurs": [
+      "Nom établissement manquant."
+     ],
+     "existant": false,
+     "tarif": "Café / Salon de thé",
+     "tarif_trouve": true
+    },
+    {
+     "ligne": 6,
+     "valide": false,
+     "erreurs": [
+      "Type 'kiosque' non reconnu (attendu : cafe, restaurant, bar, hotel, salon_the)."
+     ],
+     "existant": false,
+     "tarif": "Bar / Brasserie",
+     "tarif_trouve": false
+    }
+   ]
+  }
+ },
+ "CONTRIBUABLES": {
+  "apercu": {
+   "total": 3,
+   "valides": 3,
+   "lignes": [
+    {
+     "ligne": 2,
+     "valide": true,
+     "erreurs": [],
+     "existant": false,
+     "tarif": "Tarif standard (non défini)",
+     "tarif_trouve": false
+    },
+    {
+     "ligne": 3,
+     "valide": true,
+     "erreurs": [],
+     "existant": false,
+     "tarif": "Tarif standard (non défini)",
+     "tarif_trouve": false
+    },
+    {
+     "ligne": 4,
+     "valide": true,
+     "erreurs": [],
+     "existant": true,
+     "tarif": "Tarif standard (non défini)",
+     "tarif_trouve": false
+    }
+   ]
+  }
+ },
+ "etablissements": [
+  {
+   "numero": "2",
+   "nom_etablissement": "Café Ennasr",
+   "type_etablissement": "cafe",
+   "superficie": 85.0,
+   "trimestre_debut_imposition": 2,
+   "annee_debut_imposition": 2023,
+   "ctb": "CTB1",
+   "cin": "JB1111"
+  },
+  {
+   "numero": "E-77",
+   "nom_etablissement": "Restaurant Atlas",
+   "type_etablissement": "restaurant",
+   "superficie": 140.0,
+   "trimestre_debut_imposition": 1,
+   "annee_debut_imposition": 2024,
+   "ctb": "6",
+   "cin": "NEW001"
+  },
+  {
+   "numero": "3",
+   "nom_etablissement": "Bar X",
+   "type_etablissement": "bar",
+   "superficie": 0.0,
+   "trimestre_debut_imposition": 1,
+   "annee_debut_imposition": 2025,
+   "ctb": "CTB4",
+   "cin": "JD3333"
+  },
+  {
+   "numero": "4",
+   "nom_etablissement": "Établissement SANS ETAB",
+   "type_etablissement": "cafe",
+   "superficie": 0.0,
+   "trimestre_debut_imposition": 1,
+   "annee_debut_imposition": 2025,
+   "ctb": "7",
+   "cin": "ZZ9"
+  },
+  {
+   "numero": "5",
+   "nom_etablissement": "Snack",
+   "type_etablissement": "kiosque",
+   "superficie": 0.0,
+   "trimestre_debut_imposition": 1,
+   "annee_debut_imposition": 2025,
+   "ctb": "8",
+   "cin": "YY8"
+  }
+ ],
+ "contribuables": [
+  {
+   "nom": "BENNANI",
+   "prenom": "Rachid",
+   "cin": "NEW001",
+   "ice": "",
+   "type_personne": "physique"
+  },
+  {
+   "nom": "SANS ETAB",
+   "prenom": "",
+   "cin": "ZZ9",
+   "ice": "",
+   "type_personne": "physique"
+  },
+  {
+   "nom": "MAUVAIS TYPE",
+   "prenom": "",
+   "cin": "YY8",
+   "ice": "",
+   "type_personne": "physique"
+  },
+  {
+   "nom": "ALAMI",
+   "prenom": "Hicham",
+   "cin": "AA123456",
+   "ice": "",
+   "type_personne": "physique"
+  },
+  {
+   "nom": "STE ATLAS TRAVAUX SARL",
+   "prenom": "",
+   "cin": "",
+   "ice": "001524389000045",
+   "type_personne": "morale"
+  }
+ ],
+ "historique": [
+  {
+   "module": "DEBITS_BOISSONS",
+   "nb_lignes_total": 5,
+   "nb_succes": 5,
+   "nb_erreurs": 0
+  },
+  {
+   "module": "CONTRIBUABLES",
+   "nb_lignes_total": 3,
+   "nb_succes": 3,
+   "nb_erreurs": 0
+  }
+ ]
+}

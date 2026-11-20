@@ -1,0 +1,233 @@
+{
+ "list": {
+  "|": {
+   "total": 14561.5,
+   "items": [
+    {
+     "numero": "CTB4",
+     "impaye": 0.0,
+     "modules": []
+    },
+    {
+     "numero": "CTB3",
+     "impaye": 400.0,
+     "modules": [
+      [
+       "STATIONNEMENT",
+       1
+      ]
+     ]
+    },
+    {
+     "numero": "CTB2",
+     "impaye": 800.0,
+     "modules": [
+      [
+       "DEBITS_BOISSONS",
+       1
+      ]
+     ]
+    },
+    {
+     "numero": "CTB1",
+     "impaye": 13361.5,
+     "modules": [
+      [
+       "TNB",
+       2
+      ]
+     ]
+    }
+   ]
+  },
+  "ALAOUI|": {
+   "total": 13361.5,
+   "items": [
+    {
+     "numero": "CTB1",
+     "impaye": 13361.5,
+     "modules": [
+      [
+       "TNB",
+       2
+      ]
+     ]
+    }
+   ]
+  },
+  "JC|": {
+   "total": 400.0,
+   "items": [
+    {
+     "numero": "CTB3",
+     "impaye": 400.0,
+     "modules": [
+      [
+       "STATIONNEMENT",
+       1
+      ]
+     ]
+    }
+   ]
+  },
+  "|TNB": {
+   "total": 13361.5,
+   "items": [
+    {
+     "numero": "CTB1",
+     "impaye": 13361.5,
+     "modules": [
+      [
+       "TNB",
+       2
+      ]
+     ]
+    }
+   ]
+  },
+  "|AUCUN": {
+   "total": 0.0,
+   "items": [
+    {
+     "numero": "CTB4",
+     "impaye": 0.0,
+     "modules": []
+    }
+   ]
+  },
+  "|DEBITS_BOISSONS": {
+   "total": 800.0,
+   "items": [
+    {
+     "numero": "CTB2",
+     "impaye": 800.0,
+     "modules": [
+      [
+       "DEBITS_BOISSONS",
+       1
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ "detail": {
+  "1": {
+   "modules": [
+    [
+     "TNB",
+     2
+    ]
+   ],
+   "impaye": {
+    "TNB": 13361.5
+   },
+   "total_impaye": 13361.5,
+   "total_encaisse": 2000.0,
+   "declarations": [
+    "D2",
+    "D1",
+    "D3"
+   ],
+   "bulletins": [
+    "BV-1"
+   ]
+  },
+  "2": {
+   "modules": [
+    [
+     "DEBITS_BOISSONS",
+     1
+    ]
+   ],
+   "impaye": {
+    "DEBITS_BOISSONS": 800.0
+   },
+   "total_impaye": 800.0,
+   "total_encaisse": 1150.0,
+   "declarations": [
+    "D4",
+    "D5"
+   ],
+   "bulletins": [
+    "BV-2"
+   ]
+  },
+  "3": {
+   "modules": [
+    [
+     "STATIONNEMENT",
+     1
+    ]
+   ],
+   "impaye": {
+    "STATIONNEMENT": 400.0
+   },
+   "total_impaye": 400.0,
+   "total_encaisse": 0,
+   "declarations": [
+    "D6",
+    "D7"
+   ],
+   "bulletins": [
+    "BV-3"
+   ]
+  },
+  "4": {
+   "modules": [],
+   "impaye": {},
+   "total_impaye": 0,
+   "total_encaisse": 0,
+   "declarations": [],
+   "bulletins": []
+  }
+ },
+ "avis": {
+  "1": {
+   "total": 13361.5,
+   "periode_fr": "Du Trimestre 1 2025 au Trimestre 1 2026",
+   "periode_ar": "من الفصل 1 لسنة 2025 إلى الفصل 1 لسنة 2026",
+   "groups": {
+    "TNB": {
+     "total": 13361.5,
+     "periode_fr": "Du Trimestre 1 2025 au Trimestre 1 2026",
+     "n": 2
+    }
+   },
+   "numero": "1/2026"
+  },
+  "2": {
+   "total": 800.0,
+   "periode_fr": "Trimestre 4 de l'année 2025",
+   "periode_ar": "عن الفصل 4 لسنة 2025",
+   "groups": {
+    "DEBITS_BOISSONS": {
+     "total": 800.0,
+     "periode_fr": "Trimestre 4 de l'année 2025",
+     "n": 1
+    }
+   },
+   "numero": "1/2026"
+  },
+  "3": {
+   "total": 400.0,
+   "periode_fr": "Trimestre 2 de l'année 2026",
+   "periode_ar": "عن الفصل 2 لسنة 2026",
+   "groups": {
+    "STATIONNEMENT": {
+     "total": 400.0,
+     "periode_fr": "Trimestre 2 de l'année 2026",
+     "n": 1
+    }
+   },
+   "numero": "1/2026"
+  },
+  "4": {
+   "total": 0,
+   "periode_fr": "Aucune période impayée",
+   "periode_ar": "لا توجد فترات غير مسواة",
+   "groups": {},
+   "numero": "1/2026"
+  }
+ }
+}

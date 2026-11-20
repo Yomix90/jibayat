@@ -1,0 +1,282 @@
+{
+  "today": "2026-06-15",
+  "leases": {
+    "1": {
+      "loyer_mensuel": 350.0,
+      "mois_non_payes": [
+        {
+          "mois": "2026-01",
+          "label": "Janvier 2026",
+          "tarif": 350.0,
+          "tarif_source": "arrete:AF-2026-002",
+          "est_emis": true
+        },
+        {
+          "mois": "2026-02",
+          "label": "Février 2026",
+          "tarif": 350.0,
+          "tarif_source": "arrete:AF-2026-002",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-03",
+          "label": "Mars 2026",
+          "tarif": 350.0,
+          "tarif_source": "arrete:AF-2026-002",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-04",
+          "label": "Avril 2026",
+          "tarif": 350.0,
+          "tarif_source": "arrete:AF-2026-002",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-05",
+          "label": "Mai 2026",
+          "tarif": 350.0,
+          "tarif_source": "arrete:AF-2026-002",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-06",
+          "label": "Juin 2026",
+          "tarif": 350.0,
+          "tarif_source": "arrete:AF-2026-002",
+          "est_emis": false
+        }
+      ],
+      "total_du": 2100.0,
+      "groupes": [
+        {
+          "tarif": 350.0,
+          "nb_mois": 6,
+          "montant": 2100.0,
+          "mois_debut": "2026-01",
+          "mois_fin": "2026-06"
+        }
+      ]
+    },
+    "2": {
+      "loyer_mensuel": 675.0,
+      "mois_non_payes": [
+        {
+          "mois": "2025-11",
+          "label": "Novembre 2025",
+          "tarif": 600.0,
+          "tarif_source": "arrete:AF-2024-001",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-01",
+          "label": "Janvier 2026",
+          "tarif": 675.0,
+          "tarif_source": "arrete:AF-2026-002",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-02",
+          "label": "Février 2026",
+          "tarif": 675.0,
+          "tarif_source": "arrete:AF-2026-002",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-03",
+          "label": "Mars 2026",
+          "tarif": 675.0,
+          "tarif_source": "arrete:AF-2026-002",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-04",
+          "label": "Avril 2026",
+          "tarif": 675.0,
+          "tarif_source": "arrete:AF-2026-002",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-05",
+          "label": "Mai 2026",
+          "tarif": 675.0,
+          "tarif_source": "arrete:AF-2026-002",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-06",
+          "label": "Juin 2026",
+          "tarif": 675.0,
+          "tarif_source": "arrete:AF-2026-002",
+          "est_emis": false
+        }
+      ],
+      "total_du": 4650.0,
+      "groupes": [
+        {
+          "tarif": 600.0,
+          "nb_mois": 1,
+          "montant": 600.0,
+          "mois_debut": "2025-11",
+          "mois_fin": "2025-11"
+        },
+        {
+          "tarif": 675.0,
+          "nb_mois": 6,
+          "montant": 4050.0,
+          "mois_debut": "2026-01",
+          "mois_fin": "2026-06"
+        }
+      ]
+    },
+    "3": {
+      "loyer_mensuel": 180.0,
+      "mois_non_payes": [
+        {
+          "mois": "2026-02",
+          "label": "Février 2026",
+          "tarif": 180.0,
+          "tarif_source": "loc_tarif",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-03",
+          "label": "Mars 2026",
+          "tarif": 180.0,
+          "tarif_source": "loc_tarif",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-04",
+          "label": "Avril 2026",
+          "tarif": 180.0,
+          "tarif_source": "loc_tarif",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-05",
+          "label": "Mai 2026",
+          "tarif": 180.0,
+          "tarif_source": "loc_tarif",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-06",
+          "label": "Juin 2026",
+          "tarif": 180.0,
+          "tarif_source": "loc_tarif",
+          "est_emis": false
+        }
+      ],
+      "total_du": 900.0,
+      "groupes": [
+        {
+          "tarif": 180.0,
+          "nb_mois": 5,
+          "montant": 900.0,
+          "mois_debut": "2026-02",
+          "mois_fin": "2026-06"
+        }
+      ]
+    },
+    "4": {
+      "loyer_mensuel": 100.0,
+      "mois_non_payes": [
+        {
+          "mois": "2026-03",
+          "label": "Mars 2026",
+          "tarif": 100.0,
+          "tarif_source": "bail",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-04",
+          "label": "Avril 2026",
+          "tarif": 100.0,
+          "tarif_source": "bail",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-05",
+          "label": "Mai 2026",
+          "tarif": 100.0,
+          "tarif_source": "bail",
+          "est_emis": false
+        }
+      ],
+      "total_du": 300.0,
+      "groupes": [
+        {
+          "tarif": 100.0,
+          "nb_mois": 3,
+          "montant": 300.0,
+          "mois_debut": "2026-03",
+          "mois_fin": "2026-05"
+        }
+      ]
+    },
+    "5": {
+      "loyer_mensuel": 420.0,
+      "mois_non_payes": [
+        {
+          "mois": "2026-01",
+          "label": "Janvier 2026",
+          "tarif": 420.0,
+          "tarif_source": "bail",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-02",
+          "label": "Février 2026",
+          "tarif": 420.0,
+          "tarif_source": "bail",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-03",
+          "label": "Mars 2026",
+          "tarif": 420.0,
+          "tarif_source": "bail",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-04",
+          "label": "Avril 2026",
+          "tarif": 420.0,
+          "tarif_source": "bail",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-05",
+          "label": "Mai 2026",
+          "tarif": 420.0,
+          "tarif_source": "bail",
+          "est_emis": false
+        },
+        {
+          "mois": "2026-06",
+          "label": "Juin 2026",
+          "tarif": 420.0,
+          "tarif_source": "bail",
+          "est_emis": false
+        }
+      ],
+      "total_du": 2520.0,
+      "groupes": [
+        {
+          "tarif": 420.0,
+          "nb_mois": 6,
+          "montant": 2520.0,
+          "mois_debut": "2026-01",
+          "mois_fin": "2026-06"
+        }
+      ]
+    },
+    "6": {
+      "loyer_mensuel": 350.0,
+      "mois_non_payes": [],
+      "total_du": 0,
+      "groupes": []
+    }
+  }
+}

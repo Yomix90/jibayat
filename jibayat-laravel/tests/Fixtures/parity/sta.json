@@ -1,0 +1,556 @@
+{
+ "today": "2026-06-15",
+ "vehicules": {
+  "1": {
+   "tarif_sta": 300.0,
+   "tarif_tpv": 450.5,
+   "non_payes": [
+    {
+     "annee": 2025,
+     "trimestre": 3,
+     "echeance": "2025-10-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "echeance": "2026-01-31"
+    },
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "echeance": "2026-04-30"
+    }
+   ]
+  },
+  "2": {
+   "tarif_sta": 200.0,
+   "tarif_tpv": 99.99,
+   "non_payes": [
+    {
+     "annee": 2025,
+     "trimestre": 3,
+     "echeance": "2025-10-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "echeance": "2026-01-31"
+    },
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "echeance": "2026-04-30"
+    }
+   ]
+  },
+  "3": {
+   "tarif_sta": 500.0,
+   "tarif_tpv": 1200.0,
+   "non_payes": [
+    {
+     "annee": 2025,
+     "trimestre": 2,
+     "echeance": "2025-07-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 3,
+     "echeance": "2025-10-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "echeance": "2026-01-31"
+    },
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "echeance": "2026-04-30"
+    }
+   ]
+  },
+  "4": {
+   "tarif_sta": 200.0,
+   "tarif_tpv": 99.99,
+   "non_payes": [
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "echeance": "2026-01-31"
+    },
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "echeance": "2026-04-30"
+    }
+   ]
+  },
+  "5": {
+   "tarif_sta": 300.0,
+   "tarif_tpv": 450.5,
+   "non_payes": [
+    {
+     "annee": 2020,
+     "trimestre": 1,
+     "echeance": "2020-04-30"
+    },
+    {
+     "annee": 2020,
+     "trimestre": 2,
+     "echeance": "2020-07-31"
+    },
+    {
+     "annee": 2020,
+     "trimestre": 3,
+     "echeance": "2020-10-31"
+    },
+    {
+     "annee": 2020,
+     "trimestre": 4,
+     "echeance": "2021-01-31"
+    },
+    {
+     "annee": 2021,
+     "trimestre": 1,
+     "echeance": "2021-04-30"
+    },
+    {
+     "annee": 2021,
+     "trimestre": 2,
+     "echeance": "2021-07-31"
+    },
+    {
+     "annee": 2021,
+     "trimestre": 3,
+     "echeance": "2021-10-31"
+    },
+    {
+     "annee": 2021,
+     "trimestre": 4,
+     "echeance": "2022-01-31"
+    },
+    {
+     "annee": 2022,
+     "trimestre": 1,
+     "echeance": "2022-04-30"
+    },
+    {
+     "annee": 2022,
+     "trimestre": 2,
+     "echeance": "2022-07-31"
+    },
+    {
+     "annee": 2022,
+     "trimestre": 3,
+     "echeance": "2022-10-31"
+    },
+    {
+     "annee": 2022,
+     "trimestre": 4,
+     "echeance": "2023-01-31"
+    },
+    {
+     "annee": 2023,
+     "trimestre": 1,
+     "echeance": "2023-04-30"
+    },
+    {
+     "annee": 2023,
+     "trimestre": 2,
+     "echeance": "2023-07-31"
+    },
+    {
+     "annee": 2023,
+     "trimestre": 3,
+     "echeance": "2023-10-31"
+    },
+    {
+     "annee": 2023,
+     "trimestre": 4,
+     "echeance": "2024-01-31"
+    },
+    {
+     "annee": 2024,
+     "trimestre": 1,
+     "echeance": "2024-04-30"
+    },
+    {
+     "annee": 2024,
+     "trimestre": 2,
+     "echeance": "2024-07-31"
+    },
+    {
+     "annee": 2024,
+     "trimestre": 3,
+     "echeance": "2024-10-31"
+    },
+    {
+     "annee": 2024,
+     "trimestre": 4,
+     "echeance": "2025-01-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 1,
+     "echeance": "2025-04-30"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 2,
+     "echeance": "2025-07-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 3,
+     "echeance": "2025-10-31"
+    },
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "echeance": "2026-01-31"
+    },
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "echeance": "2026-04-30"
+    }
+   ]
+  }
+ },
+ "liste": {
+  "1": {
+   "nb_non_declares": 3,
+   "nb_emises": 1,
+   "nb_non_paye": 4,
+   "montant_impaye": 3002.0,
+   "montant_en_attente": 750.5,
+   "annees_non_payees": [
+    2025,
+    2026
+   ]
+  },
+  "2": {
+   "nb_non_declares": 3,
+   "nb_emises": 0,
+   "nb_non_paye": 3,
+   "montant_impaye": 899.97,
+   "montant_en_attente": 0.0,
+   "annees_non_payees": [
+    2025,
+    2026
+   ]
+  },
+  "3": {
+   "nb_non_declares": 4,
+   "nb_emises": 0,
+   "nb_non_paye": 4,
+   "montant_impaye": 6800.0,
+   "montant_en_attente": 0.0,
+   "annees_non_payees": [
+    2025,
+    2026
+   ]
+  },
+  "4": {
+   "nb_non_declares": 2,
+   "nb_emises": 0,
+   "nb_non_paye": 2,
+   "montant_impaye": 599.98,
+   "montant_en_attente": 0.0,
+   "annees_non_payees": [
+    2025,
+    2026
+   ]
+  },
+  "5": {
+   "nb_non_declares": 25,
+   "nb_emises": 0,
+   "nb_non_paye": 25,
+   "montant_impaye": 18762.5,
+   "montant_en_attente": 0.0,
+   "annees_non_payees": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ]
+  }
+ },
+ "scenarios": [
+  {
+   "input": {
+    "id": 1,
+    "date": "2026-06-15",
+    "bv": "BV-100",
+    "trims": [
+     "2025_2",
+     "2025_3",
+     "2025_4",
+     "2026_1"
+    ]
+   },
+   "declarations": [
+    {
+     "annee": 2025,
+     "trimestre": 3,
+     "base_calcul": 450.5,
+     "taux": 300.0,
+     "montant_principal": 750.5,
+     "penalite_retard": 45.05,
+     "majoration": 38.3,
+     "amende_non_declaration": 0.0,
+     "montant_total": 833.85,
+     "statut": "emis",
+     "date_declaration": "2026-06-15",
+     "date_echeance": "2025-10-31",
+     "bulletin": {
+      "numero_bulletin": "BV-100",
+      "montant": 833.85,
+      "statut": "en_attente"
+     }
+    },
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "base_calcul": 450.5,
+     "taux": 300.0,
+     "montant_principal": 750.5,
+     "penalite_retard": 45.05,
+     "majoration": 31.54,
+     "amende_non_declaration": 0.0,
+     "montant_total": 827.09,
+     "statut": "emis",
+     "date_declaration": "2026-06-15",
+     "date_echeance": "2026-01-31",
+     "bulletin": {
+      "numero_bulletin": "BV-100",
+      "montant": 827.09,
+      "statut": "en_attente"
+     }
+    },
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "base_calcul": 450.5,
+     "taux": 300.0,
+     "montant_principal": 750.5,
+     "penalite_retard": 45.05,
+     "majoration": 24.78,
+     "amende_non_declaration": 0.0,
+     "montant_total": 820.33,
+     "statut": "emis",
+     "date_declaration": "2026-06-15",
+     "date_echeance": "2026-04-30",
+     "bulletin": {
+      "numero_bulletin": "BV-100",
+      "montant": 820.33,
+      "statut": "en_attente"
+     }
+    }
+   ]
+  },
+  {
+   "input": {
+    "id": 2,
+    "date": "2025-10-31",
+    "bv": "",
+    "trims": [
+     "2025_3"
+    ]
+   },
+   "declarations": [
+    {
+     "annee": 2025,
+     "trimestre": 3,
+     "base_calcul": 99.99,
+     "taux": 200.0,
+     "montant_principal": 299.99,
+     "penalite_retard": 0.0,
+     "majoration": 0.0,
+     "amende_non_declaration": 0.0,
+     "montant_total": 299.99,
+     "statut": "emis",
+     "date_declaration": "2025-10-31",
+     "date_echeance": "2025-10-31",
+     "bulletin": null
+    }
+   ]
+  },
+  {
+   "input": {
+    "id": 2,
+    "date": "2026-02-01",
+    "bv": "BV-200",
+    "trims": [
+     "2025_4",
+     "2025_3"
+    ]
+   },
+   "declarations": [
+    {
+     "annee": 2025,
+     "trimestre": 3,
+     "base_calcul": 99.99,
+     "taux": 200.0,
+     "montant_principal": 299.99,
+     "penalite_retard": 10.0,
+     "majoration": 6.5,
+     "amende_non_declaration": 0.0,
+     "montant_total": 316.49,
+     "statut": "emis",
+     "date_declaration": "2026-02-01",
+     "date_echeance": "2025-10-31",
+     "bulletin": {
+      "numero_bulletin": "BV-200",
+      "montant": 316.49,
+      "statut": "en_attente"
+     }
+    },
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "base_calcul": 99.99,
+     "taux": 200.0,
+     "montant_principal": 299.99,
+     "penalite_retard": 10.0,
+     "majoration": 5.0,
+     "amende_non_declaration": 0.0,
+     "montant_total": 314.99,
+     "statut": "emis",
+     "date_declaration": "2026-02-01",
+     "date_echeance": "2026-01-31",
+     "bulletin": {
+      "numero_bulletin": "BV-200",
+      "montant": 314.99,
+      "statut": "en_attente"
+     }
+    }
+   ]
+  },
+  {
+   "input": {
+    "id": 3,
+    "date": "2026-01-31",
+    "bv": "BV-300",
+    "trims": [
+     "2025_2",
+     "2025_3",
+     "2025_4"
+    ]
+   },
+   "declarations": [
+    {
+     "annee": 2025,
+     "trimestre": 2,
+     "base_calcul": 1200.0,
+     "taux": 500.0,
+     "montant_principal": 1700.0,
+     "penalite_retard": 120.0,
+     "majoration": 90.0,
+     "amende_non_declaration": 0.0,
+     "montant_total": 1910.0,
+     "statut": "emis",
+     "date_declaration": "2026-01-31",
+     "date_echeance": "2025-07-31",
+     "bulletin": {
+      "numero_bulletin": "BV-300",
+      "montant": 1910.0,
+      "statut": "en_attente"
+     }
+    },
+    {
+     "annee": 2025,
+     "trimestre": 3,
+     "base_calcul": 1200.0,
+     "taux": 500.0,
+     "montant_principal": 1700.0,
+     "penalite_retard": 120.0,
+     "majoration": 72.0,
+     "amende_non_declaration": 0.0,
+     "montant_total": 1892.0,
+     "statut": "emis",
+     "date_declaration": "2026-01-31",
+     "date_echeance": "2025-10-31",
+     "bulletin": {
+      "numero_bulletin": "BV-300",
+      "montant": 1892.0,
+      "statut": "en_attente"
+     }
+    },
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "base_calcul": 1200.0,
+     "taux": 500.0,
+     "montant_principal": 1700.0,
+     "penalite_retard": 0.0,
+     "majoration": 0.0,
+     "amende_non_declaration": 0.0,
+     "montant_total": 1700.0,
+     "statut": "emis",
+     "date_declaration": "2026-01-31",
+     "date_echeance": "2026-01-31",
+     "bulletin": {
+      "numero_bulletin": "BV-300",
+      "montant": 1700.0,
+      "statut": "en_attente"
+     }
+    }
+   ]
+  },
+  {
+   "input": {
+    "id": 4,
+    "date": "2026-06-15",
+    "bv": "BV-400",
+    "trims": [
+     "2025_4",
+     "2026_1"
+    ]
+   },
+   "declarations": [
+    {
+     "annee": 2025,
+     "trimestre": 4,
+     "base_calcul": 99.99,
+     "taux": 200.0,
+     "montant_principal": 299.99,
+     "penalite_retard": 10.0,
+     "majoration": 7.0,
+     "amende_non_declaration": 0.0,
+     "montant_total": 316.99,
+     "statut": "emis",
+     "date_declaration": "2026-06-15",
+     "date_echeance": "2026-01-31",
+     "bulletin": {
+      "numero_bulletin": "BV-400",
+      "montant": 316.99,
+      "statut": "en_attente"
+     }
+    },
+    {
+     "annee": 2026,
+     "trimestre": 1,
+     "base_calcul": 99.99,
+     "taux": 200.0,
+     "montant_principal": 299.99,
+     "penalite_retard": 10.0,
+     "majoration": 5.5,
+     "amende_non_declaration": 0.0,
+     "montant_total": 315.49,
+     "statut": "emis",
+     "date_declaration": "2026-06-15",
+     "date_echeance": "2026-04-30",
+     "bulletin": {
+      "numero_bulletin": "BV-400",
+      "montant": 315.49,
+      "statut": "en_attente"
+     }
+    }
+   ]
+  }
+ ]
+}

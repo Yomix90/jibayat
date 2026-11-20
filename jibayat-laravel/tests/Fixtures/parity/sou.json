@@ -1,0 +1,981 @@
+{
+ "today": "2026-06-15",
+ "contrats": {
+  "1": {
+   "rev_mens": 1000.0,
+   "periodes": [
+    {
+     "renouvellement": 0,
+     "date_debut": "2023-03-15",
+     "date_fin": "2024-03-14",
+     "redevance_mensuelle": 1000.0
+    },
+    {
+     "renouvellement": 1,
+     "date_debut": "2024-03-15",
+     "date_fin": "2025-03-14",
+     "redevance_mensuelle": 1050.0
+    },
+    {
+     "renouvellement": 2,
+     "date_debut": "2025-03-15",
+     "date_fin": "2026-03-14",
+     "redevance_mensuelle": 1102.5
+    },
+    {
+     "renouvellement": 3,
+     "date_debut": "2026-03-15",
+     "date_fin": "2027-03-14",
+     "redevance_mensuelle": 1157.62
+    }
+   ],
+   "mois": [
+    {
+     "mois": "2023-06",
+     "redevance": 1000.0,
+     "renouvellement": 0,
+     "est_emis": true
+    },
+    {
+     "mois": "2023-07",
+     "redevance": 1000.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2023-08",
+     "redevance": 1000.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2023-09",
+     "redevance": 1000.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2023-10",
+     "redevance": 1000.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2023-11",
+     "redevance": 1000.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2023-12",
+     "redevance": 1000.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-01",
+     "redevance": 1000.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-02",
+     "redevance": 1000.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-03",
+     "redevance": 1000.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-04",
+     "redevance": 1050.0,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-05",
+     "redevance": 1050.0,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-06",
+     "redevance": 1050.0,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-07",
+     "redevance": 1050.0,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-08",
+     "redevance": 1050.0,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-09",
+     "redevance": 1050.0,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-10",
+     "redevance": 1050.0,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-11",
+     "redevance": 1050.0,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-12",
+     "redevance": 1050.0,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-01",
+     "redevance": 1050.0,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-02",
+     "redevance": 1050.0,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-03",
+     "redevance": 1050.0,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-04",
+     "redevance": 1102.5,
+     "renouvellement": 2,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-05",
+     "redevance": 1102.5,
+     "renouvellement": 2,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-06",
+     "redevance": 1102.5,
+     "renouvellement": 2,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-07",
+     "redevance": 1102.5,
+     "renouvellement": 2,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-08",
+     "redevance": 1102.5,
+     "renouvellement": 2,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-09",
+     "redevance": 1102.5,
+     "renouvellement": 2,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-10",
+     "redevance": 1102.5,
+     "renouvellement": 2,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-11",
+     "redevance": 1102.5,
+     "renouvellement": 2,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-12",
+     "redevance": 1102.5,
+     "renouvellement": 2,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-01",
+     "redevance": 1102.5,
+     "renouvellement": 2,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-02",
+     "redevance": 1102.5,
+     "renouvellement": 2,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-03",
+     "redevance": 1102.5,
+     "renouvellement": 2,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-04",
+     "redevance": 1157.62,
+     "renouvellement": 3,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-05",
+     "redevance": 1157.62,
+     "renouvellement": 3,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-06",
+     "redevance": 1157.62,
+     "renouvellement": 3,
+     "est_emis": false
+    }
+   ],
+   "groupes": [
+    {
+     "renouvellement": 0,
+     "redevance_mensuelle": 1000.0,
+     "nb_mois": 10,
+     "montant": 10000.0,
+     "mois_debut": "2023-06",
+     "mois_fin": "2024-03"
+    },
+    {
+     "renouvellement": 1,
+     "redevance_mensuelle": 1050.0,
+     "nb_mois": 12,
+     "montant": 12600.0,
+     "mois_debut": "2024-04",
+     "mois_fin": "2025-03"
+    },
+    {
+     "renouvellement": 2,
+     "redevance_mensuelle": 1102.5,
+     "nb_mois": 12,
+     "montant": 13230.0,
+     "mois_debut": "2025-04",
+     "mois_fin": "2026-03"
+    },
+    {
+     "renouvellement": 3,
+     "redevance_mensuelle": 1157.62,
+     "nb_mois": 3,
+     "montant": 3472.86,
+     "mois_debut": "2026-04",
+     "mois_fin": "2026-06"
+    }
+   ]
+  },
+  "2": {
+   "rev_mens": 333.33,
+   "periodes": [
+    {
+     "renouvellement": 0,
+     "date_debut": "2024-01-01",
+     "date_fin": "2025-12-31",
+     "redevance_mensuelle": 333.33
+    },
+    {
+     "renouvellement": 1,
+     "date_debut": "2026-01-01",
+     "date_fin": "2027-12-31",
+     "redevance_mensuelle": 358.33
+    }
+   ],
+   "mois": [
+    {
+     "mois": "2024-01",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-02",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-03",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-04",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-05",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-06",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-07",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-08",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-09",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-10",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-11",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-12",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-01",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-02",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-03",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-04",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-05",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-06",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-07",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-08",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-09",
+     "redevance": 333.33,
+     "renouvellement": 0,
+     "est_emis": false
+    }
+   ],
+   "groupes": [
+    {
+     "renouvellement": 0,
+     "redevance_mensuelle": 333.33,
+     "nb_mois": 21,
+     "montant": 6999.93,
+     "mois_debut": "2024-01",
+     "mois_fin": "2025-09"
+    }
+   ]
+  },
+  "3": {
+   "rev_mens": 750.0,
+   "periodes": [
+    {
+     "renouvellement": 0,
+     "date_debut": "2025-02-28",
+     "date_fin": "2026-02-27",
+     "redevance_mensuelle": 750.0
+    },
+    {
+     "renouvellement": 1,
+     "date_debut": "2026-02-28",
+     "date_fin": "2027-02-27",
+     "redevance_mensuelle": 787.5
+    }
+   ],
+   "mois": [
+    {
+     "mois": "2025-02",
+     "redevance": 787.5,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-03",
+     "redevance": 750.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-04",
+     "redevance": 750.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-05",
+     "redevance": 750.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-06",
+     "redevance": 750.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-07",
+     "redevance": 750.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-08",
+     "redevance": 750.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-09",
+     "redevance": 750.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-10",
+     "redevance": 750.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-11",
+     "redevance": 750.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-12",
+     "redevance": 750.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-01",
+     "redevance": 750.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-02",
+     "redevance": 750.0,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-03",
+     "redevance": 787.5,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-04",
+     "redevance": 787.5,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-05",
+     "redevance": 787.5,
+     "renouvellement": 1,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-06",
+     "redevance": 787.5,
+     "renouvellement": 1,
+     "est_emis": false
+    }
+   ],
+   "groupes": [
+    {
+     "renouvellement": 0,
+     "redevance_mensuelle": 787.5,
+     "nb_mois": 1,
+     "montant": 787.5,
+     "mois_debut": "2025-02",
+     "mois_fin": "2025-02"
+    },
+    {
+     "renouvellement": 0,
+     "redevance_mensuelle": 750.0,
+     "nb_mois": 12,
+     "montant": 9000.0,
+     "mois_debut": "2025-03",
+     "mois_fin": "2026-02"
+    },
+    {
+     "renouvellement": 1,
+     "redevance_mensuelle": 787.5,
+     "nb_mois": 4,
+     "montant": 3150.0,
+     "mois_debut": "2026-03",
+     "mois_fin": "2026-06"
+    }
+   ]
+  },
+  "4": {
+   "rev_mens": 1234.56,
+   "periodes": [
+    {
+     "renouvellement": 0,
+     "date_debut": "2024-02-29",
+     "date_fin": "2027-02-27",
+     "redevance_mensuelle": 1234.56
+    }
+   ],
+   "mois": [
+    {
+     "mois": "2024-02",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-03",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-04",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-05",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-06",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-07",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-08",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-09",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-10",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-11",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2024-12",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-01",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-02",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-03",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-04",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-05",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-06",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-07",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-08",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-09",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-10",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-11",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2025-12",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-01",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-02",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-03",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-04",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-05",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    },
+    {
+     "mois": "2026-06",
+     "redevance": 1234.56,
+     "renouvellement": 0,
+     "est_emis": false
+    }
+   ],
+   "groupes": [
+    {
+     "renouvellement": 0,
+     "redevance_mensuelle": 1234.56,
+     "nb_mois": 29,
+     "montant": 35802.24,
+     "mois_debut": "2024-02",
+     "mois_fin": "2026-06"
+    }
+   ]
+  },
+  "5": {
+   "rev_mens": 800.0,
+   "periodes": [],
+   "mois": [],
+   "groupes": []
+  }
+ },
+ "liste": {
+  "1": {
+   "total_impaye": 39302.86,
+   "total_non_declare": 38302.86,
+   "total_en_attente": 1000.0,
+   "nb_non_declares": 36,
+   "nb_emises": 1,
+   "nb_mois_impaye": 37,
+   "rev_mens": 1000.0
+  },
+  "2": {
+   "total_impaye": 6999.93,
+   "total_non_declare": 6999.93,
+   "total_en_attente": 0,
+   "nb_non_declares": 21,
+   "nb_emises": 0,
+   "nb_mois_impaye": 21,
+   "rev_mens": 333.33
+  },
+  "3": {
+   "total_impaye": 12937.5,
+   "total_non_declare": 12937.5,
+   "total_en_attente": 0,
+   "nb_non_declares": 17,
+   "nb_emises": 0,
+   "nb_mois_impaye": 17,
+   "rev_mens": 750.0
+  },
+  "4": {
+   "total_impaye": 35802.24,
+   "total_non_declare": 35802.24,
+   "total_en_attente": 0,
+   "nb_non_declares": 29,
+   "nb_emises": 0,
+   "nb_mois_impaye": 29,
+   "rev_mens": 1234.56
+  },
+  "5": {
+   "total_impaye": 0,
+   "total_non_declare": 0,
+   "total_en_attente": 0,
+   "nb_non_declares": 0,
+   "nb_emises": 0,
+   "nb_mois_impaye": 0,
+   "rev_mens": 800.0
+  }
+ },
+ "scenarios": [
+  {
+   "input": {
+    "id": 2,
+    "bv": "BV-200",
+    "mois": [
+     "2024-01",
+     "2024-02",
+     "2024-03"
+    ]
+   },
+   "declaration": {
+    "annee": 2024,
+    "base_calcul": 333.33,
+    "montant_total": 999.99,
+    "statut": "emis",
+    "notes": "2024-01, 2024-02, 2024-03",
+    "bulletin": {
+     "numero_bulletin": "BV-200",
+     "montant": 999.99,
+     "statut": "en_attente"
+    }
+   }
+  },
+  {
+   "input": {
+    "id": 2,
+    "bv": "BV-201",
+    "mois": [
+     "2024-01",
+     "2024-02",
+     "2024-03",
+     "2024-04",
+     "2024-05",
+     "2024-06",
+     "2024-07",
+     "2024-08",
+     "2024-09",
+     "2024-10",
+     "2024-11",
+     "2024-12",
+     "2025-01",
+     "2025-02",
+     "2025-03",
+     "2025-04",
+     "2025-05",
+     "2025-06",
+     "2025-07",
+     "2025-08",
+     "2025-09"
+    ]
+   },
+   "declaration": {
+    "annee": 2025,
+    "base_calcul": 333.33,
+    "montant_total": 6999.93,
+    "statut": "emis",
+    "notes": "2024-01, 2024-02, 2024-03, 2024-04, 2024-05, 2024-06, 2024-07, 2024-08, 2024-09, 2024-10, 2024-11, 2024-12, 2025-01, 2025-02, 2025-03, 2025-04, 2025-05, 2025-06, 2025-07, 2025-08, 2025-09",
+    "bulletin": {
+     "numero_bulletin": "BV-201",
+     "montant": 6999.93,
+     "statut": "en_attente"
+    }
+   }
+  },
+  {
+   "input": {
+    "id": 4,
+    "bv": "BV-400",
+    "mois": [
+     "2024-02",
+     "2024-03",
+     "2024-04",
+     "2024-05",
+     "2024-06",
+     "2024-07",
+     "2024-08",
+     "2024-09",
+     "2024-10",
+     "2024-11",
+     "2024-12",
+     "2025-01",
+     "2025-02",
+     "2025-03",
+     "2025-04",
+     "2025-05",
+     "2025-06",
+     "2025-07",
+     "2025-08",
+     "2025-09",
+     "2025-10",
+     "2025-11",
+     "2025-12",
+     "2026-01",
+     "2026-02",
+     "2026-03",
+     "2026-04",
+     "2026-05",
+     "2026-06"
+    ]
+   },
+   "declaration": {
+    "annee": 2026,
+    "base_calcul": 1234.56,
+    "montant_total": 35802.24,
+    "statut": "emis",
+    "notes": "2024-02, 2024-03, 2024-04, 2024-05, 2024-06, 2024-07, 2024-08, 2024-09, 2024-10, 2024-11, 2024-12, 2025-01, 2025-02, 2025-03, 2025-04, 2025-05, 2025-06, 2025-07, 2025-08, 2025-09, 2025-10, 2025-11, 2025-12, 2026-01, 2026-02, 2026-03, 2026-04, 2026-05, 2026-06",
+    "bulletin": {
+     "numero_bulletin": "BV-400",
+     "montant": 35802.24,
+     "statut": "en_attente"
+    }
+   }
+  },
+  {
+   "input": {
+    "id": 3,
+    "bv": "BV-300",
+    "mois": [
+     "2025-02",
+     "2025-03"
+    ]
+   },
+   "declaration": {
+    "annee": 2025,
+    "base_calcul": 750.0,
+    "montant_total": 1537.5,
+    "statut": "emis",
+    "notes": "2025-02, 2025-03",
+    "bulletin": {
+     "numero_bulletin": "BV-300",
+     "montant": 1537.5,
+     "statut": "en_attente"
+    }
+   }
+  }
+ ]
+}
